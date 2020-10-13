@@ -6,8 +6,8 @@ permalink: /blog/js
 #  A React and Better JS Journey
  
  <article>
-<header><a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
-Mock out the API service layer using the Factory design pattern</a></header>
+<header><H2><a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
+Mock out the API service layer using the Factory design pattern</a></H2></header>
     
 Your React app is going to make api calls to some service that resides on a server somewhere. As a minimum in real world dev environments there will probably be a server for development, a server for testing and a server for live. Obviously that's just one simple hardware architecture example in the dev, test, build and deployment path.
 A well designed React app should isolate api calls into a service layer ......
