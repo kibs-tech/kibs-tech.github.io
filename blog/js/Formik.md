@@ -1,5 +1,6 @@
 ---
 date: 2020-01-08
+permalink: /blog/js/Formik
 linktitle: onChange and Formik
 title: onChange with Formik
 weight: 10

@@ -1,5 +1,6 @@
 ---
 date: 2019-12-06
+permalink: /blog/js/function-parameters-with-default-and-required-values
 linktitle: Function parameters with default and required values
 title: Function parameters with default and required values 
 weight: 10

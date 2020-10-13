@@ -1,5 +1,6 @@
 ---
 date: 2019-12-17
+permalink: /blog/js/firebase-nodemailer-free-account
 linktitle: Sending email from Node functions in Firebase free tier
 title: Sending email from Node functions in Firebase free tier
 weight: 10

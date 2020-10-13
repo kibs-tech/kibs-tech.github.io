@@ -1,5 +1,6 @@
 ---
 date: 2019-12-08
+permalink: /blog/js/problems-installing-react-snap
 linktitle: Problems installing react-snap
 title: Problems installing react-snap
 weight: 10
