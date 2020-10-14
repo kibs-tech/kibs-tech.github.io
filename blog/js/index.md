@@ -1,5 +1,6 @@
 ---
 permalink: /blog/js
+title: A React and Better JS Journey
 ---
     
   
