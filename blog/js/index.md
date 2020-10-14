@@ -10,8 +10,8 @@ permalink: /blog/js
 Mock out the API service layer using the Factory design pattern</a></h2></header>
     
 Your React app is going to make api calls to some service that resides on a server somewhere. As a minimum in real world dev environments there will probably be a server for development, a server for testing and a server for live. Obviously that's just one simple hardware architecture example in the dev, test, build and deployment path.
-A well designed React app should isolate api calls into a service layer ......
-
+A well designed React app should isolate api calls into a 
+service layer ......
 <a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
 Read more</a>
 </article>
@@ -26,8 +26,9 @@ Read more</a>
    
 You are using Formik and you want to add an onChange handler to a form field
 Problem You can't. The formik form will stop working. Why is not important for this blog entry.
-What googling reveals Google the problem and you'll find lots and lots of people quite upset that they can't implement their own onChange handler. There have been many requests for this to be supported and all of the requests have been closed. .....
-  
+What googling reveals Google the problem and you'll find lots and lots of people quite upset that they can't 
+implement their own onChange handler. There have been many requests for this to be supported and all of the requests have 
+been closed .....
 <a href="/blog/js/formik">
 Read more</a>
 
@@ -42,9 +43,7 @@ Read more</a>
     Im not going to write a tutorial on how to use hooks. This is a blog not a set of tutorials and as with everything else programming related these days there are gazillions of tutorials out there.
 Instead I'm just going to say Yahoooo!!!!
 Well I'll also say that once you start using React Hooks you will suddenly find that your now &lsquo;legacy&rsquo; code base looks absolutely terrible.
-Do not look at it.
- 
-[Read more](/blog/js/hooks-in-react)
+Do not look at it .....[Read more](/blog/js/hooks-in-react)
 </article>
 
 
@@ -62,14 +61,15 @@ Do not look at it.
   <div class="c-article__summary">
     To send emails from your Firebase functions you need to use Nodemailer and a gmail account. You cannot use the SMTP server for your domain.
 When nodemailer is configured to use a gmail address you may still get the following error but its just a warning and can be ignored
- Billing account not configured. External network is not accessible and quotas are severely limited. &gt;Configure billing account to remove these restrictions.
+ Billing account not configured. External network is not accessible and quotas are severely limited. &gt;Configure billing account to remove 
+these restrictions 
   </div>
   
   <a href="/blog/js/firebase-nodemailer-free-account/" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
-
+***
   
     
   <article class="c-article p-list-article">
