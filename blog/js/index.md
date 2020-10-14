@@ -29,25 +29,28 @@ Problem You can't. The formik form will stop working. Why is not important for t
 What googling reveals Google the problem and you'll find lots and lots of people quite upset that they can't 
 implement their own onChange handler. There have been many requests for this to be supported and all of the requests have 
 been closed .....
+
 <a href="/blog/js/formik">
 Read more</a>
 
 
-  
+***  
     
   <article>
   <header>
-    (/blog/js/hooks-in-react)[The Joys of Hooks in React]
+  ## [The Joys of Hooks in React](/blog/js/hooks-in-react)
   </header>
 
     Im not going to write a tutorial on how to use hooks. This is a blog not a set of tutorials and as with everything else programming related these days there are gazillions of tutorials out there.
 Instead I'm just going to say Yahoooo!!!!
 Well I'll also say that once you start using React Hooks you will suddenly find that your now &lsquo;legacy&rsquo; code base looks absolutely terrible.
-Do not look at it .....[Read more](/blog/js/hooks-in-react)
+Do not look at it .....
+
+[Read more](/blog/js/hooks-in-react)
 </article>
 
 
-  
+***  
     
   <article class="c-article p-list-article">
   <header>
