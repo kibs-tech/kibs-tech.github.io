@@ -1,6 +1,6 @@
 # Computing and IT services 
 
-## Individuals
+## For Individuals
 - friendly tuition and help with all things IT and computing. 
 - help with remote working and home office setup
 - help and advice getting your internet business ideas up and running
