@@ -5,15 +5,16 @@
 - help with remote working and home office setup
 - help and advice getting your internet business ideas up and running
 - packages for sole traders wanting a simple internet presence.
-- complete websites for sole traders and  small businesses
+- websites for sole traders
 
 
 
 ## Small Business
 - backend programming
 - database programming
-- legacy websites and desktop applications
+- shpport for legacy websites and desktop applications
 - modern cloud, intranet, website and app development
+- complete websites
 
 
 ## Large Business and Corporate
@@ -30,4 +31,4 @@ Enterprise Java Full Stack specialist with ReactJS. Some clients include:
 - Retek (London/Minneapolis)
 - Siemens
 - Connect Digital Media
-- EMT (Valencia)
+- EMT (Spain)
