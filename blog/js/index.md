@@ -38,10 +38,9 @@ Read more</a>
 ***  
     
   
-  ## [The Joys of Hooks in React](/blog/js/hooks-in-react)
+## [The Joys of Hooks in React](/blog/js/hooks-in-react)
   
-
-    Im not going to write a tutorial on how to use hooks. This is a blog not a set of tutorials and as with everything else programming related these days there are gazillions of tutorials out there.
+I'm not going to write a tutorial on how to use hooks. This is a blog not a set of tutorials and as with everything else programming related these days there are gazillions of tutorials out there.
 Instead I'm just going to say Yahoooo!!!!
 Well I'll also say that once you start using React Hooks you will suddenly find that your now &lsquo;legacy&rsquo; code base looks absolutely terrible.
 Do not look at it .....
@@ -88,9 +87,13 @@ these restrictions
     When installing react-snap there is an error:
 Error: Chromium revision is not downloaded
 The error information centers around issues with puppeteer.
-Save yourself hours of googling and trying out all the different suggested fixes and work arounds and just install react-snapshot instead. It does the same thing.
+Save yourself hours of googling and trying out all the different suggested fixes and work arounds and just install react-snapshot instead. 
+It does the same thing .....
   </div>
-  
+ 
+
+ <a href="/blog/js/problems-installing-react-snap/">Problems installing react-snap</a>
+    
 </article>
 
 ***
@@ -129,8 +132,7 @@ The first one is to explicitly list the parameters:
   </header>
   <div class="c-article__summary">
     Sometimes in a promise chain when you catch an error you may want to just log it and carry on. One way to do this is to throw custom Errors.
-Consider the promise chain below. If A,B, or C throws an error the chain is effectively jumped out of and the final catch block is executed
-import {promiseA,promiseB,promiseC} from &#39;some-lib&#39; const doSomethingA = () =&gt; promiseA const doSomethingB = () =&gt; promiseB const doSomethingC = () =&gt; promiseC doSomethingA() .
+Consider the promise chain below. If A,B, or C throws an error the chain is effectively jumped out of and the final catch block is executed ....
   </div>
   
   <a href="/blog/js/promise-chain-ignore-some-errors/" class="c-article__btn p-list-article__btn">Read more</a>
