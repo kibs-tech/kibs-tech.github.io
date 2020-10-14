@@ -1,6 +1,6 @@
 ---
 date: 2020-01-05
-permalink: /blog/js/Hooks-in-React
+permalink: /blog/js/hooks-in-react
 linktitle: The Joys of Hooks in React
 title: The Joys of Hooks in React
 weight: 10
