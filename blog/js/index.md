@@ -11,14 +11,15 @@ Mock out the API service layer using the Factory design pattern</a></h2></header
     
 Your React app is going to make api calls to some service that resides on a server somewhere. As a minimum in real world dev environments there will probably be a server for development, a server for testing and a server for live. Obviously that's just one simple hardware architecture example in the dev, test, build and deployment path.
 A well designed React app should isolate api calls into a 
-service layer ......
+service layer ......<br/>
+<br/>
 <a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
 Read more</a>
 </article>
   
   
 
-
+***
   
     
   
@@ -36,10 +37,9 @@ Read more</a>
 
 ***  
     
-  <article>
-  <header>
+  
   ## [The Joys of Hooks in React](/blog/js/hooks-in-react)
-  </header>
+  
 
     Im not going to write a tutorial on how to use hooks. This is a blog not a set of tutorials and as with everything else programming related these days there are gazillions of tutorials out there.
 Instead I'm just going to say Yahoooo!!!!
@@ -47,7 +47,7 @@ Well I'll also say that once you start using React Hooks you will suddenly find 
 Do not look at it .....
 
 [Read more](/blog/js/hooks-in-react)
-</article>
+
 
 
 ***  
@@ -93,7 +93,7 @@ Save yourself hours of googling and trying out all the different suggested fixes
   
 </article>
 
-
+***
   
     
   <article class="c-article p-list-article">
@@ -116,7 +116,7 @@ The first one is to explicitly list the parameters:
 </article>
 
 
-  
+  ***
     
   <article class="c-article p-list-article">
   <header>
@@ -138,7 +138,7 @@ import {promiseA,promiseB,promiseC} from &#39;some-lib&#39; const doSomethingA =
 </article>
 
 
-  
+  ***
     
   <article class="c-article p-list-article">
   <header>
@@ -159,7 +159,7 @@ import {promiseA,promiseB,promiseC} from &#39;some-lib&#39; const doSomethingA =
 </article>
 
 
-  
+  ***
     
   <article class="c-article p-list-article">
   <header>
