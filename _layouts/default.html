@@ -13,6 +13,8 @@
 header {text-align:middle; color:black}
 #header_wrap {background-color:white; text-align:middle
 footer {text-align:middle}
+#avatar {text-align:middle}
+#avatar img {border-radius:50%}
 </style>
   </head>
 
@@ -21,6 +23,7 @@ footer {text-align:middle}
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
+<p id="avatar"><img alt="avatar" SRC="/avatar.jpg" /></p>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
