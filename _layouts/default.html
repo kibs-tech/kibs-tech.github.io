@@ -8,6 +8,12 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
+
+<style>
+header {text-align:middle; color:black}
+#header_wrap {background-color:white
+footer {text-align:middle}
+</style>
   </head>
 
   <body>
@@ -38,10 +44,10 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+<p><a href="/blog/is">JS Blog</a></p>
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
 
