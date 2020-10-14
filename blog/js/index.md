@@ -3,7 +3,6 @@ permalink: /blog/js
 ---
     
   
-#  A React and Better JS Journey
  
  <article>
 <header><h2><a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
