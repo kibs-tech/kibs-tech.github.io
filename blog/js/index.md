@@ -88,7 +88,7 @@ It does the same thing
   </div>
  
 
- <a href="/blog/js/problems-installing-react-snap/">Problems installing react-snap</a>
+ <a href="/blog/js/problems-installing-react-snap/">Read more</a>
     
 </article>
 
