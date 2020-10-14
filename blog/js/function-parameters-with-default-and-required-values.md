@@ -9,7 +9,8 @@ weight: 10
 There were two main strategies for defining function parameters. 
 
 The first one is to explicitly list the parameters:
-```javascript
+
+```
 function printHello(name,country){
   console.log(`Hello ${name}, you live in ${country}`);
   //Hello Dave, you live in UK
@@ -18,7 +19,7 @@ function printHello(name,country){
 
 The problem with this is that there is nothing to stop you mistakenly getting the order of the parameters wrong when calling the function. So you could do this:
 
-```javascript
+```
 printHello("UK","Dave");
 //Hello UK, you live in Dave
 ```
@@ -26,14 +27,14 @@ printHello("UK","Dave");
 
 Or you could leave arguments get undefined:
 
-```javascript
+```
 printHello("Dave");
 //Hello Dave, you live in undefined
 ```
 
 
 Another strategy is to use a single parameter object:
-```javascript
+```
 function printHello(config){
   console.log(`Hello ${config.name}, you live in ${config.country}`);
 }
@@ -45,7 +46,7 @@ With the single parameter object we no longer have to worry about getting the or
 
 Below we destructure the single parameter object into its component fields and assign a default value of "UK" to the country field:
 
-```javascript
+```
 function printHello({name,country="UK"}){
   console.log(`Hello ${name}, you live in ${country}`);
 }
@@ -58,7 +59,7 @@ printHello("Dave");
 ```
 So that takes care of default values but what about missing arguments? Well the default value can be a function so we can exploit this to implement a required parameter strategy:
 
-```javascript
+```
 function missingArgument(){
   throw new Error("Missing argument");
 }
