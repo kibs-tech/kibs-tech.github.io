@@ -4,7 +4,7 @@
 
 <div class="hmj-home-icon">
 <i class="far fa-user"></i>
-<\div>
+</div>
 
 - friendly tuition and help with all things IT and computing. 
 - help with remote working and home office setup
