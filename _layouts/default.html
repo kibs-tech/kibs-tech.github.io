@@ -5,7 +5,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+   
+ <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
 
@@ -15,12 +16,13 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer"
-<div style="text-align:center; color:#fff;">contact@kibs-tech.xyz | 07515 675152</div>
 
         <header class="inner">
           <p id="project_title">{{ site.title | default: site.github.repository_name }}</p>
           <P id="project_tagline"></p>
-<nav><a title="home" href="/">Home</a></nav>
+<nav><a title="home" href="/">Home</a> | 
+<a title="contact" href="/contact">Contact</a>
+</nav>
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
