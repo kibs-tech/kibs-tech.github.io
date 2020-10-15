@@ -1,6 +1,9 @@
 # Computing and IT services 
 
 ## For Individuals
+
+<i class="far fa-user fa-lg"></i>
+
 - friendly tuition and help with all things IT and computing. 
 - help with remote working and home office setup
 - help and advice getting your internet business ideas up and running
@@ -10,6 +13,9 @@
 
 
 ## Small Business
+
+<i class="far fa-building fa-lg"></i>
+
 - backend programming
 - database programming
 - support for legacy websites and desktop applications
