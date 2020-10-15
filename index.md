@@ -6,11 +6,11 @@
 <i class="far fa-user"></i>
 </div>
 
-- friendly tuition and help with all things IT and computing. 
-- help with remote working and home office setup
-- help and advice getting your internet business ideas up and running
-- packages for sole traders wanting a simple internet presence.
-- websites for sole traders
+- Friendly tuition and help with all things IT and computing. 
+- Help with remote working and home office setup
+- Help and advice getting your internet business ideas up and running
+- Packages for sole traders wanting a simple internet presence.
+- Websites for sole traders
 
 
 
@@ -20,10 +20,10 @@
 <i class="far fa-building"></i>
 </div>
 
-- backend programming
-- database programming
-- support for legacy websites and desktop applications
-- modern cloud, intranet, website and app development
+- Backend programming
+- Database programming
+- Support for legacy websites and desktop applications
+- Modern cloud, intranet, website and app development
 
 
 ## Large Business and Corporate
