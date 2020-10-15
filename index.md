@@ -2,7 +2,9 @@
 
 ## For Individuals
 
-<i class="far fa-user fa-lg"></i>
+<div class="hmj-home-icon">
+<i class="far fa-user"></i>
+<\div>
 
 - friendly tuition and help with all things IT and computing. 
 - help with remote working and home office setup
@@ -14,7 +16,9 @@
 
 ## Small Business
 
-<i class="far fa-building fa-lg"></i>
+<div class="hmj-home-icon">
+<i class="far fa-building"></i>
+</div>
 
 - backend programming
 - database programming
@@ -23,6 +27,11 @@
 
 
 ## Large Business and Corporate
+
+<div class="hmj-home-icon">
+<i class="fas fa-sitemap"></i>
+</div>
+
 Enterprise Java Full Stack specialist with ReactJS. Some clients include:
 - National Trust
 - J.D. Williams (Simply Be, Jacamo, Marisota)
