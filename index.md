@@ -12,9 +12,8 @@
 ## Small Business
 - backend programming
 - database programming
-- shpport for legacy websites and desktop applications
+- support for legacy websites and desktop applications
 - modern cloud, intranet, website and app development
-- complete websites
 
 
 ## Large Business and Corporate
