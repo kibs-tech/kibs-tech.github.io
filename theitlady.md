@@ -4,7 +4,7 @@ permalink: /theitlady
 
 # Computer Services for Individuals, Sole Traders and Small Start Ups
 
-<img class="avatar" src="/avatar.jpg" style="float:left" />
+<img class="avatar" src="/avatar.jpg" style="float:left; margin-bottom:1.5rem" />
 I'm Helen. I look after the
 IT needs of individuals, sole traders and small 
 businesses.
