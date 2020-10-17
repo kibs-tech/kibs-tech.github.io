@@ -12,9 +12,9 @@
 - Packages for sole traders wanting a simple internet presence.
 - Websites for sole traders
 
-<div class="center">
+<p class="center">
 <a href="individual" class='button'>View Details</a>
-</div>
+</p>
 
 ## Small Business
 
