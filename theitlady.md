@@ -16,16 +16,12 @@ firmly believe in the the company moto
 which is: Keep It Bl**dy Simple (kibs!).
 
 
-I can do most things computing. 
+I can do most things computing and can also provide
+ both IT support and mentoring. 
 
- and provide both 
-IT support and uas love to help
-eople  I understand 
-the needs if. If you would 
-like some help please send me an email to
-helen@kibs-tech.xyz
 
-Below are three popular packages I offer
+ 
+Below are popular packages I offer
 for sole traders and small startups. Take a 
 look. I'd love to help get your business up and 
 running with online promotion.
@@ -36,7 +32,8 @@ Contact me
 
 
 ## Basic Business Starter Package
-All you need to start advertising your business and get customers: 
+All you need to start advertising your business 
+and get customers: 
 
  - Google business page 
  - Facebook business page
@@ -54,7 +51,7 @@ business signs.
 - Google business page 
 - Facebook business page
 - Domain name e.g. &lt;yourbusiness&gt;.co.uk
-- Simple but effective one page website
+- Simple but effective one page website with SEO
 - Proper business email address
 
 Cost: £150
