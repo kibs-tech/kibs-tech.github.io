@@ -1,6 +1,3 @@
-
-![The Beach](/fb-splash.png)
-
 # Computing and IT services 
 
 ## For Individuals
@@ -15,7 +12,7 @@
 - Packages for sole traders wanting a simple internet presence.
 - Websites for sole traders
 
-<p class="center">
+<p class="center" style="padding:20px 0px">
 <a href="individual" class='button'>View Details</a>
 </p>
 
