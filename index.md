@@ -1,3 +1,6 @@
+
+![The Beach](/fb-splash.png)
+
 # Computing and IT services 
 
 ## For Individuals
