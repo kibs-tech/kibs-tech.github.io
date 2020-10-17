@@ -3,7 +3,7 @@ permalink: /individual
 head-title: Computer Services for Individuals, Sole Traders and Small Start Ups
 head-desc: Providing computing, IT support and tuition
 ---
-
+ 
 # Computer Services for Individuals, Sole Traders and Small Start Ups
 
 <img class="avatar" src="/avatar.jpg" style="float:left; margin-right:1.5rem" />
