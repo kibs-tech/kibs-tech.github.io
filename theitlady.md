@@ -30,8 +30,7 @@ me an email [helen@kibs-tech.xyz](mailto:helen@kibs-tech.xyz)
 
 ## Ongoing IT support
 Need someone to be your IT support 'guy'? 
-<a href="#contact">Contact me</a>
-
+Send me an email [helen@kibs-tech.xyz](mailto:helen@kibs-tech.xyz)
 
 ## Basic Business Starter Package
 All you need to start advertising your business 
@@ -77,6 +76,6 @@ Cost: £40
 ## Contact Me
 Send me an email:
 
-helen@kibs-tech.xyz
+[helen@kibs-tech.xyz](mailto:helen@kibs-tech.xyz)
 
 
