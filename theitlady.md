@@ -16,19 +16,19 @@ firmly believe in the the company moto
 which is: Keep It Bl**dy Simple (kibs!).
 
 
-I can do most things computing and can also provide
- both IT support and mentoring. 
+I can do most things computing and can also
+provide both IT support and mentoring. 
 
 
- 
-Below are popular packages I offer
-for sole traders and small startups. Take a 
-look. I'd love to help get your business up and 
-running with online promotion.
+Below are some popular packages that I offer.
+
+## Remote Working and Home Office Support
+If you need help with any of this send me an email
+
 
 ## Ongoing IT support
 Need someone to be your IT support 'guy'? 
-Contact me
+Send me an email
 
 
 ## Basic Business Starter Package
@@ -51,10 +51,10 @@ business signs.
 - Google business page 
 - Facebook business page
 - Domain name e.g. &lt;yourbusiness&gt;.co.uk
-- Simple but effective one page website with SEO
+- Very simple but effective one page website with SEO
 - Proper business email address
 
-Cost: £150
+Cost: £130
 
 *Website hosting is free for first year then £30/year <br />
 *Domain is free for first year then £10/year
@@ -64,8 +64,8 @@ Additional web pages can be created from
 
 
 ## Basic Logo design
-Its best to have a logo because a logo helps 
-identify you. You can use a logo on all your
+Logos are great. That's because logos help 
+identify you and you can use a logo on all your
  printed materials as well as on your website,
  Facebook and Google business pages.
 
