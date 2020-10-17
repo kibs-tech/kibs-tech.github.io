@@ -4,11 +4,8 @@ permalink: /theitlady
 
 # Computer Services for Individuals, Sole Traders and Small Start Ups
 
-<div style="text-align:center">
-<img class="avatar" src="/avatar.jpg" />
-</div>
-
-I'm Helen, aka The IT Lady. I look after the
+<img class="avatar" src="/avatar.jpg" style="float:left" />
+I'm Helen. I look after the
 IT needs of individuals, sole traders and small 
 businesses.
 
