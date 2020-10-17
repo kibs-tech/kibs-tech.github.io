@@ -23,12 +23,14 @@ provide both IT support and mentoring.
 Below are some popular packages that I offer.
 
 ## Remote Working and Home Office Support
-If you need help with any of these send me an email
+If you need help with any of these send 
+me an email [helen@kibs-tech.xyz](mailto:helen@kibs-tech.xyz)
+
 
 
 ## Ongoing IT support
 Need someone to be your IT support 'guy'? 
-Send me an email
+<a href="#contact">Contact me</a>
 
 
 ## Basic Business Starter Package
