@@ -13,7 +13,7 @@
 - Websites for sole traders
 
 <div class="center">
-[View Details](/individual){:class='button'}
+<a href="individual" class='button'>View Details</a>
 </div>
 
 ## Small Business
