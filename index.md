@@ -3,7 +3,7 @@
 ## For Individuals
 
 <div class="hmj-home-icon">
-<i class="far fa-user"></i>
+<a href="/individual"><i class="far fa-user"></i></a>
 </div>
 
 - Friendly tuition and help with all things IT and computing. 
@@ -12,7 +12,7 @@
 - Packages for sole traders wanting a simple internet presence.
 - Websites for sole traders
 
-
+[View Details](/individual){.button}
 
 ## Small Business
 
