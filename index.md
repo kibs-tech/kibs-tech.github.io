@@ -1,4 +1,4 @@
-# Computing and IT services 
+# Computing and IT Services 
 
 ## For Individuals
 
