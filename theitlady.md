@@ -53,7 +53,7 @@ business signs.
 - Google business page 
 - Facebook business page
 - Domain name e.g. &lt;yourbusiness&gt;.co.uk
-- Very simple but effective one page website with SEO
+- Simple but effective one page website with SEO
 - Proper business email address
 
 Cost: £130
@@ -72,6 +72,7 @@ identify you and you can use a logo on all your
  Facebook and Google business pages.
 
 Cost: £40
+
 
 ## Contact Me
 Send me an email:
