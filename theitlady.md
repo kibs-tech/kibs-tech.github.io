@@ -1,7 +1,7 @@
 ---
 permalink: /individual
 head-title: Computer Services for Individuals, Sole Traders and Small Start Ups
-head-desc: Personal IT support and tuition
+head-desc: Providing computing, IT support and tuition
 ---
 
 # Computer Services for Individuals, Sole Traders and Small Start Ups
@@ -16,14 +16,14 @@ firmly believe in the the company moto
 which is: Keep It Bl**dy Simple (kibs!).
 
 
-I can do most things computing and can also
+I can do most things computing. I also
 provide both IT support and mentoring. 
 
 
 Below are some popular packages that I offer.
 
 ## Remote Working and Home Office Support
-If you need help with any of this send me an email
+If you need help with any of these send me an email
 
 
 ## Ongoing IT support
