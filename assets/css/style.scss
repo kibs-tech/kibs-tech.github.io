@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 img.avatar {border-radius:50%; width:80px}
-#avatar {text-align:middle}
+img.avatar-small {border-radius:50%; width:50px}
 header a {color:#fff; 
 text-decoration:underline;
 }
