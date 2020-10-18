@@ -19,7 +19,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <span style="font-size:0.75rem">
  (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
 </span>
-- Legacy websites and desktop applications
+- Legacy websites, intranet and desktop applications
 - Modern cloud, intranet, website and app development
 
 
