@@ -14,8 +14,11 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </div>
 
 - Backend/frontend programming <br/>
-<span style="font-size:0.75rem">e.g. Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript</span>
-- Database programming (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
+<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, Jekyll etc)</span>
+- Database programming <br />
+<span style="font-size:0.75rem">
+ (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
+</span>
 - Legacy websites and desktop applications
 - Modern cloud, intranet, website and app development
 
