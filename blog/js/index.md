@@ -48,7 +48,7 @@ Do not look at it<br/>
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/firebase-nodemailer-free-account/">Sending email from Node functions in Firebase free tier</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/firebase-nodemailer-free-account">Sending email from Node functions in Firebase free tier</a></h2>
 
       <time datetime="2019-12-17T00:00:00Z">
       
@@ -62,7 +62,7 @@ When nodemailer is configured to use a gmail address you may still get the follo
 these restrictions 
   </div>
   
-  <a href="/blog/js/firebase-nodemailer-free-account/" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="/blog/js/firebase-nodemailer-free-account" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
@@ -71,7 +71,7 @@ these restrictions
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/problems-installing-react-snap/">Problems installing react-snap</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/problems-installing-react-snap">Problems installing react-snap</a></h2>
     
       <time datetime="2019-12-08T00:00:00Z">
         
@@ -87,7 +87,7 @@ It does the same thing
   </div>
  
 
- <a href="/blog/js/problems-installing-react-snap/">Read more</a>
+ <a href="/blog/js/problems-installing-react-snap">Read more</a>
     
 </article>
 
@@ -96,7 +96,7 @@ It does the same thing
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/function-parameters-with-default-and-required-values-/">Function parameters with default and required values</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/function-parameters-with-default-and-required-values">Function parameters with default and required values</a></h2>
     
       <time datetime="2019-12-06T00:00:00Z">
         
@@ -109,7 +109,7 @@ The first one is to explicitly list the parameters:
 
   </div>
   
-  <a href="/blog/js/function-parameters-with-default-and-required-values-/" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="/blog/js/function-parameters-with-default-and-required-values" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
@@ -118,7 +118,7 @@ The first one is to explicitly list the parameters:
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/promise-chain-ignore-some-errors/">How to ignore some Errors in a promise chain</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/promise-chain-ignore-some-errors">How to ignore some Errors in a promise chain</a></h2>
     
       <time datetime="2019-12-01T00:00:00Z">
         
@@ -130,7 +130,7 @@ The first one is to explicitly list the parameters:
 Consider the promise chain below. If A,B, or C throws an error the chain is effectively jumped out of and the final catch block is executed ....
   </div>
   
-  <a href="/blog/js/promise-chain-ignore-some-errors/" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="/blog/js/promise-chain-ignore-some-errors" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
@@ -139,7 +139,7 @@ Consider the promise chain below. If A,B, or C throws an error the chain is effe
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/promise-stacktrace/">Improved stacktrace when a promise is rejected</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/promise-stacktrace">Improved stacktrace when a promise is rejected</a></h2>
     
       <time datetime="2019-11-26T00:00:00Z">
         
@@ -151,7 +151,7 @@ Consider the promise chain below. If A,B, or C throws an error the chain is effe
 
   </div>
   
-  <a href="/blog/js/promise-stacktrace/" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="/blog/js/promise-stacktrace" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
@@ -160,7 +160,7 @@ Consider the promise chain below. If A,B, or C throws an error the chain is effe
     
   <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="/blog/js/uncaught-error-in-event-handler/">Uncaught Error in Event Handler</a></h2>
+    <h2 class="c-title c-article__title"><a href="/blog/js/uncaught-error-in-event-handler">Uncaught Error in Event Handler</a></h2>
     
       <time datetime="2019-11-23T00:00:00Z">
         
@@ -174,7 +174,7 @@ This is what Reactjs.org says about Error Boundaries:
  Error boundaries do not catch errors inside event handlers. React doesn't need error boundaries to &gt;recover from errors in event handlers.
   </div>
   
-  <a href="/blog/js/uncaught-error-in-event-handler/" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="/blog/js/uncaught-error-in-event-handler" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
