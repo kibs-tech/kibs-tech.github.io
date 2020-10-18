@@ -7,13 +7,14 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
 
 
-## Small amd Medium Business
+## Small and Medium Business
 
 <div class="hmj-home-icon">
 <i class="far fa-building"></i>
 </div>
 
-- Backend/frontend programming (Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript)
+- Backend/frontend programming
+<div style="font-size:0.75rem">e.g. Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript</div>
 - Database programming (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
 - Legacy websites and desktop applications
 - Modern cloud, intranet, website and app development
