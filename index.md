@@ -14,7 +14,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </div>
 
 - Backend/frontend programming <br/>
-<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, React etc)</span>
+<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, React, WordPress)</span>
 - Database programming <br />
 <span style="font-size:0.75rem">
  (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
