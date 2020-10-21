@@ -1,6 +1,6 @@
 ---
 head-title: Computing Services Fon Small and Medium Businesses
-head-description: Database programming, backend programming, legacy systems, desktop applications, websites, cloud, intranet, mobile apps
+head-description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 ---
 # Computing Services 
@@ -21,7 +21,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </span>
 - Legacy websites, intranet and desktop applications
 - Help with testing and automated testing <br />
-<span style="font-size:0.75rem">Selenium, Cucumber</span>
+<span style="font-size:0.75rem">(Selenium, Cucumber)</span>
 - Modern cloud, intranet, website and app development
 
 
