@@ -20,6 +20,8 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
  (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
 </span>
 - Legacy websites, intranet and desktop applications
+- Help with testing and automated testing <br />
+<span style="font-size:0.75rem">Selenium, Cucumber</span>
 - Modern cloud, intranet, website and app development
 
 
