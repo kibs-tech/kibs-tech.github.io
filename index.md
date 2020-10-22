@@ -22,7 +22,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 - Legacy websites, intranet and desktop applications
 - Help with testing and automated testing <br />
 <span style="font-size:0.75rem">(Selenium, Cucumber)</span>
-- Modern cloud, intranet, website and app development
+- Modern cloud services, website and app development
 
 
 ## Large Business and Corporate
