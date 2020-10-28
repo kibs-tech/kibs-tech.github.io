@@ -29,12 +29,14 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div class="box">
 <h3>Small business friendly subscription</h3>
 £180/month
+
 - 8 hours of programming work
 which will roll over if you don't use it. 
 This is typically spent on maintainenance,
 bug fixing and implementing small changes to 
 existing software. This is extremely good value
 - ongoing help and advice by email
+
 </div>
 
 <div class="box">
