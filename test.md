@@ -28,27 +28,26 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
 <div class="box">
 <h3>Hire a Programmer Subscription</h3>
+<div class="content">
+<b>£180/month</b>
 
-£180/month
-
-<ul>
-<li>up to 8 hours of programming work a month.
+<p>Up to 8 hours of programming work and consultancy a month.
 This is typically spent on maintainenance,
 bug fixing and implementing changes to 
-existing software. <b>This is extremely good value</b>
-</li>
-<li>ongoing help and advice by email</li>
-</ul>
-
+existing software. <b>This is extremely good value!</b>
+</p>
+</div>
 </div>
 
 <div class="box">
-<h3>Help with 'overseas' developer</h3>
+<h3>Help with a none UK developer</h3>
 <div class="content">
- If you are hiring a developer from overseas 
+ If you are hiring a developer from outside
+ the UK 
 to develop a website or app for you and you 
-would like some help with this send me an 
-email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
+would like some help with some aspect of this
+ send me an email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
+
 </div>
 </div>
 
