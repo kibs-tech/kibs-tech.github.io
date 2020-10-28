@@ -44,10 +44,12 @@ existing software. <b>This is extremely good value</b>
 
 <div class="box">
 <h3>Help with 'overseas' developer</h3>
+<div class="content">
  If you are hiring a developer from overseas 
 to develop a website or app for you and you 
 would like some help with this send me an 
 email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
+</div>
 </div>
 
 
