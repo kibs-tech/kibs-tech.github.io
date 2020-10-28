@@ -31,7 +31,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div class="content">
 <strong>£180/month</strong>
 
-<p>Up to 8 hours of programming work and consultancy a month.
+<p>Up to 8 hours of development and consultancy a month.
 This is typically spent on maintainenance,
 bug fixing and implementing changes to software systems. <strong>This is extremely good value!</strong>
 </p>
