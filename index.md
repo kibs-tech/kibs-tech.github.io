@@ -1,5 +1,5 @@
 ---
-head-title: Computing Services Fon Small and Medium Businesses
+head-title: Computing Services for Small and Medium Businesses
 head-description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 ---
