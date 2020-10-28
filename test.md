@@ -14,7 +14,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="far fa-building"></i>
 </div>
 
-- Consultancy and advice
+- Friendly consultancy and advice
 - Backend/frontend programming <br/>
 <span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, React, WordPress)</span>
 - Database programming <br />
@@ -26,7 +26,8 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <span style="font-size:0.75rem">(Selenium, Cucumber)</span>
 - Modern cloud services, website and app development
 
-### Small business friendly subscription
+<div class="box">
+<h3>Small business friendly subscription</h3>
 £180/month
 - 8 hours of programming work
 which will roll over if you don't use it. 
@@ -34,10 +35,15 @@ This is typically spent on maintainenance,
 bug fixing and implementing small changes to 
 existing software. This is extremely good value
 - ongoing help and advice by email
+</div>
 
-### Hiring an 'overseas' freelance developer and 
-would like some expert help with it?
-Send me an email: 
+<div class="box">
+<h3>Help with 'overseas' developer</h3>
+ If you are hiring a developer from overseas 
+to develop a website or app for you and you 
+would like some help with this send me an 
+email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
+</div>
 
 
 ## Large Business and Corporate
