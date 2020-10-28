@@ -29,12 +29,11 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div class="box">
 <h3>Hire a Programmer Subscription</h3>
 <div class="content">
-<b>£180/month</b>
+<strong>£180/month</strong>
 
 <p>Up to 8 hours of programming work and consultancy a month.
 This is typically spent on maintainenance,
-bug fixing and implementing changes to 
-existing software. <b>This is extremely good value!</b>
+bug fixing and implementing changes to software systems. <strong>This is extremely good value!</strong>
 </p>
 </div>
 </div>
