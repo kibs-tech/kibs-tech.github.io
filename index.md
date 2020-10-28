@@ -44,11 +44,15 @@ Email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
 <div class="box">
 <h3>Help with a none UK developer</h3>
 <div class="content">
+<p>
  If you are hiring a developer from outside
  the UK and 
 would like some help with this
- send me an email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
-
+ send me an email.
+</p>
+<p>
+Email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
+</p>
 </div>
 </div>
 
