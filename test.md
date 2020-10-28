@@ -27,14 +27,15 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 - Modern cloud services, website and app development
 
 <div class="box">
-<h3>Small business friendly subscription</h3>
+<h3>Hire a Programmer Subscription</h3>
+
 £180/month
 
-- 8 hours of programming work
-which will roll over if you don't use it. 
+- up to 8 hours of programming work a month.
 This is typically spent on maintainenance,
-bug fixing and implementing small changes to 
-existing software. This is extremely good value
+bug fixing and implementing changes to 
+existing software. __This is extremely good value__
+
 - ongoing help and advice by email
 
 </div>
