@@ -50,10 +50,13 @@ color:#fff;
 .box{
 border:2px solid #f7941d;
 border-radius: 10px;
-padding: 0px 10px 10px 10px;
 margin: 1.5rem 1rem;
 }
+.box .content {
+padding:10px;
+}
 div.box h3 {
+padding:10px;
 background-color:#f7941d;
 color:#fff;
 font-size:1.25rem; margin-top:0px;}
