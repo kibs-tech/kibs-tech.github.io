@@ -31,12 +31,14 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
 £180/month
 
-- up to 8 hours of programming work a month.
+<ul>
+<li>up to 8 hours of programming work a month.
 This is typically spent on maintainenance,
 bug fixing and implementing changes to 
-existing software. __This is extremely good value__
-
-- ongoing help and advice by email
+existing software. <b>This is extremely good value</b>
+</li>
+<li>ongoing help and advice by email</li>
+</ul>
 
 </div>
 
