@@ -42,9 +42,8 @@ bug fixing and implementing changes to software systems. <strong>This is extreme
 <h3>Help with a none UK developer</h3>
 <div class="content">
  If you are hiring a developer from outside
- the UK 
-to develop a website or app for you and you 
-would like some help with some aspect of this
+ the UK and 
+would like some help with this
  send me an email: <a href="mailto:helen@kibs-tech.xyz">helen@kibs-tech.xyz</a>
 
 </div>
