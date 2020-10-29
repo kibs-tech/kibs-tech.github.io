@@ -12,7 +12,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="far fa-building"></i>
 </div>
 
-- Friendly consultancy and advice
+-  Consultancy and advice
 - Backend/frontend programming <br/>
 <span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, React, WordPress)</span>
 - Database programming <br />
