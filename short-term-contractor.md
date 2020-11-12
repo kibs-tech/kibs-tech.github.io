@@ -5,7 +5,18 @@ Release date looming?
 
 Workload increasing?
 
-Hire an experienced contractor short term @ your time in need.
+All hands on deck?
 
-Plough through your issue log
-and even help with all hands on deck testing
+Hire an experienced contract developer short 
+term @ your time of need.
+
+
+In many cases an experienced contract developer
+will be comfortably up and running within a day, 
+ ploughing through your issue logs and and
+ helping to allieviate the workload of your 
+stressed out dev teams. They can also help with all aspects of
+ testing and test data generation.
+
+
+Send me an email and get someone in now.
