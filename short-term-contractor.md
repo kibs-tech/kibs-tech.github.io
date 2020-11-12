@@ -25,8 +25,9 @@ stressed out dev teams. They can also help with all aspects of
 
 
 ## Currently supported technology stack
-Full stack Enterprise Java and JavaScript 
+Full Stack Enterprise Java, web tier and JavaScript (incl ReactJS)
 
+## Contact
 Send an email and get someone in now! 
 <a href="contact@kibs-tech.xyz">contact@kibs-tech.xyz</a>
 
