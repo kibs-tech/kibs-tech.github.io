@@ -1,13 +1,16 @@
 ---
+permalink:/
+head-title: Short term contract developer hire. 
+head-description: get a developer in for 1,2 to a few weeks to help with workload.
 ---
+<div class="splash">
+<div class="h1">Release date looming?</div>
 
-Release date looming?
+<div class="h2">Workload increasing?</div>
 
-Workload increasing?
+<div class="h3">All hands on deck?</div>
 
-All hands on deck?
-
-Hire an experienced contract developer short 
+# Hire an experienced contract developer short 
 term @ your time of need.
 
 
@@ -19,4 +22,5 @@ stressed out dev teams. They can also help with all aspects of
  testing and test data generation.
 
 
-Send me an email and get someone in now.
+Send me an email and get someone in now!
+</div>
