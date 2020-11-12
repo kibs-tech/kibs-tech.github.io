@@ -1,4 +1,4 @@
-No---
+---
 permalink: /hire-a-short-term-contractor
 head-title: Short term contract software developer hire. 
 head-description: Get a developer in for 1,2 or a few weeks to help with workload.
