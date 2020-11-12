@@ -1,4 +1,4 @@
----
+No---
 permalink: /hire-a-short-term-contractor
 head-title: Short term contract software developer hire. 
 head-description: Get a developer in for 1,2 or a few weeks to help with workload.
@@ -25,7 +25,7 @@ stressed out dev teams. They can also help with all aspects of
 
 
 ## Currently supported technology stack
-Full Stack Enterprise Java, Web FE and JavaScript (incl ReactJS)
+Full Stack Enterprise Java, Web FE and JavaScript (incl ReactJS). CV available on request.
 
 ## Contact
 Send an email and get someone in now! 
