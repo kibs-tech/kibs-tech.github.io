@@ -45,3 +45,5 @@ Enterprise Java Full Stack specialist with ReactJS. Some clients include:
 - Siemens
 - Connect Digital Media
 - EMT (Spain)
+
+[Need a short term contractor?](/short-term-contractor)
