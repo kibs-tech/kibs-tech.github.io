@@ -34,12 +34,13 @@ Send an email and get someone in now!
 ---
 
 <p class="small">
-Spring REST, Spring MVC, Spring Boot, Spring Batch<br/>
-JPA/Hibernate, NoSQL, MySQL, Oracle, Postgres <br/> 
-jQuery, Javascript, Ajax, Knockoutjs <br/>
-Docker, Git, Jenkins <br/>
-Thymeleaf,Bootstrap,  JSTL, Struts 2 <br/>
-Junit, Mockito, Selenium, CucumberJS<br/>
-FatWire, Endecca<br/>
-Agile, Kanban<
+Spring REST, Spring MVC, Spring Boot, Spring Batch,
+JPA/Hibernate, NoSQL, MySQL, Oracle, Postgres,
+Firebase, AWS,
+jQuery, Javascript, Ajax, Knockoutjs,
+Docker, Git, Jenkins,
+Thymeleaf,Bootstrap,  JSTL, Struts 2,
+Junit, Mockito, Selenium, CucumberJS,
+FatWire, Endecca,
+Agile, Kanban,
 </p>
