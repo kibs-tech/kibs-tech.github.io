@@ -21,8 +21,8 @@ Use it to:
 
 
 Programming is never ending. There's always 
-something that seems to meed doing and that can 
+something that seems to need doing and that can 
 make it really expensive! Sticking to the 
-monthly retainer package will constrain your 
-spending and help prioritize what work 
-really needs doing.
+monthly retainer package will help constrain your 
+spending and perhaps more importantly encourage 
+you to prioritize what work really needs doing.
