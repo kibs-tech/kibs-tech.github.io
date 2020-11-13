@@ -10,6 +10,8 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 
 <div class="h3">All hands on deck?</div>
 
+<p><i class="far fa-tired"></i></p>
+
 </div>
 
 
