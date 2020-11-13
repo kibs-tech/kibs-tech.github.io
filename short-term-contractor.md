@@ -31,7 +31,9 @@ Full Stack Enterprise Java environments, Web FE (HTML,CSS,JS) and ReactJS. CV av
 Send an email and get someone in now! 
 <a href="contact@kibs-tech.xyz">contact@kibs-tech.xyz</a>
 
-<div class="small">
+---
+
+<p class="small">
 Spring REST, Spring MVC, Spring Boot, Spring Batch<br/>
 JPA/Hibernate, NoSQL, MySQL, Oracle, Postgres <br/> 
 jQuery, Javascript, Ajax, Knockoutjs <br/>
@@ -40,4 +42,4 @@ Thymeleaf,Bootstrap,  JSTL, Struts 2 <br/>
 Junit, Mockito, Selenium, CucumberJS<br/>
 FatWire, Endecca<br/>
 Agile, Kanban<
-/div>
+</p>
