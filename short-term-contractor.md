@@ -24,10 +24,20 @@ stressed out dev teams. They can also help with all aspects of
  testing and test data generation.
 
 
-## Currently supported technology stack
-Full Stack Enterprise Java, Web FE and JavaScript (incl ReactJS). CV available on request.
+## Currently supported technology stacks
+Full Stack Enterprise Java environments, Web FE (HTML,CSS,JS) and ReactJS. CV available on request.
 
 ## Contact
 Send an email and get someone in now! 
 <a href="contact@kibs-tech.xyz">contact@kibs-tech.xyz</a>
 
+<div class="small">
+Spring REST, Spring MVC, Spring Boot, Spring Batch<br/>
+JPA/Hibernate, NoSQL, MySQL, Oracle, Postgres <br/> 
+jQuery, Javascript, Ajax, Knockoutjs <br/>
+Docker, Git, Jenkins <br/>
+Thymeleaf,Bootstrap,  JSTL, Struts 2 <br/>
+Junit, Mockito, Selenium, CucumberJS<br/>
+FatWire, Endecca<br/>
+Agile, Kanban<
+/div>
