@@ -17,7 +17,7 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 
 
 In many cases an experienced contract developer
-will be comfortably up and running within a day 
+will be comfortably up and running within a day, 
  ploughing through your issue log and 
  helping alleviate the workload of your 
 stressed out dev teams. They can also help with all aspects of
@@ -25,7 +25,7 @@ stressed out dev teams. They can also help with all aspects of
 
 
 ## Currently supported technology stacks
-Full Stack Enterprise Java environments, Web FE and ReactJS. 
+Full Stack Enterprise Java environments with web FE and ReactJS. 
 
 ## Contact
 Send an email and get someone in now! 
