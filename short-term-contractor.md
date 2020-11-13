@@ -25,15 +25,14 @@ stressed out dev teams. They can also help with all aspects of
 
 
 ## Currently supported technology stacks
-Full Stack Enterprise Java environments, Web FE and ReactJS. CV available on request.
+Full Stack Enterprise Java environments, Web FE and ReactJS. 
 
 ## Contact
-Send us an email and get someone in now! 
+Send an email and get someone in now! 
 <a href="contact@kibs-tech.xyz">contact@kibs-tech.xyz</a>
 
----
-
-<p class="small">
+<hr style='border-top:1px solid #000' />
+<p class="small" >
 Spring REST, Spring MVC, Spring Boot, Spring Batch,
 JPA/Hibernate, NoSQL, MySQL, Oracle, Postgres,
 Firebase, AWS,
