@@ -13,15 +13,20 @@ and consultancy a month. It's fantastic value!
 Use it to:
 
 - Perform maintenance 
-- Fix bugs
-- Perfom migration and upgrades
-- Program new features
+- Fix issue
+- Keep on top of migration and upgrades
+- Program new features and enhancements
 - Carry out research and feasibility studies
-- Project manage 3rd party development work.
+- Project manage 3rd party development work
 
+## Who is the package for
+A business that has a more or less stable system but could do with someone 
+to keep on top of it and do small amounts of work on it
 
-Programming is never ending. There's always 
-something that seems to need doing and that can 
+## Why a retainer is good
+Programming and advances in computing is never ending. It seems 
+there's always 
+something that needs doing. That can 
 make it really expensive! Sticking to the 
 monthly retainer package will help constrain your 
 spending and perhaps more importantly encourage 
