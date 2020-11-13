@@ -19,9 +19,9 @@ Use it to:
 - Carry out research and feasibility studies
 - Project manage 3rd party development work
 
-## Who is the package for
-A business that has a more or less stable system but could do with someone 
-to keep on top of it and do small amounts of work on it
+## Who is the package for?
+It's ideally suited to a business that has a system that is more or less stable but could do with someone 
+to keep on top of it as well as do small amounts of work on it.
 
 ## Why a retainer is good
 Programming and advances in computing is never ending. It seems 
@@ -29,5 +29,5 @@ there's always
 something that needs doing. That can 
 make it really expensive! Sticking to the 
 monthly retainer package will help constrain your 
-spending and perhaps more importantly encourage 
+spending and perhaps encourage 
 you to prioritize what work really needs doing.
