@@ -15,7 +15,7 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 </div>
 
 
-# Hire an experienced contract developer short term
+# Hire an experienced developer short term
 
 
 In many cases an experienced contract developer
@@ -26,7 +26,7 @@ stressed out dev teams. They can also help with all aspects of
  testing and test data generation.
 
 
-## Currently supported technology stacks
+## Supported technology stacks
 Full Stack Enterprise Java environments with web FE and ReactJS. 
 
 ## Contact
