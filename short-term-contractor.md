@@ -13,7 +13,7 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 </div>
 
 
-# Hire an experienced developer short term
+# Hire a short term contractor
 
 
 In many cases an experienced contract developer
