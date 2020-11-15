@@ -8,8 +8,6 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 
 <div class="h2">Workload increasing?</div>
 
-<div class="h3">All hands on deck?</div>
-
 <div class="hmj-home-icon"><i class="far fa-tired"></i></div>
 
 </div>
@@ -31,7 +29,7 @@ Full Stack Enterprise Java environments with web FE and ReactJS.
 
 ## Contact
 Send an email and get someone in now! 
-<a href="contact@kibs-tech.xyz">contact@kibs-tech.xyz</a>
+<a href="contact@kibs-tech.co.uk">contact@kibs-tech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
 <p class="small" >
