@@ -15,7 +15,17 @@ service layer<br/>
 Read more</a>
 </article>
   
-  
+ 
+ ## [Various problems with Expo, React Native, Native Base](/blog/js/problems-with-expo-and-react-native)
+  <article>
+<header><h2><a href="/blog/js/problems-with-expo-and-react-native">
+Various problems with Expo, React Native, Native Base</a></h2></header>
+    
+Error starting Expo:<br/>
+Could not get status from Metro bundler. connect ECONNREFUSED 127.0.0.1:1900<br/>
+<a href="/blog/js/problems-with-expo-and-react-native">
+Read more</a>
+</article>
 
 ***
   
