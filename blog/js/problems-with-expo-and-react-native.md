@@ -6,7 +6,7 @@ title: Solutions to Various Problems with Expo and React Native
 weight: 10
 ---
 
-# Various problems with Expo, React Native, Native Base compilation etc
+# Various problems with Expo, React Native, Native Base
 
 --------
 ## Error starting Expo:
