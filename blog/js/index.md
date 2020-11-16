@@ -16,7 +16,6 @@ Read more</a>
 </article>
   
  
- ## [Various problems with Expo, React Native, Native Base](/blog/js/problems-with-expo-and-react-native)
   <article>
 <header><h2><a href="/blog/js/problems-with-expo-and-react-native">
 Various problems with Expo, React Native, Native Base</a></h2></header>
