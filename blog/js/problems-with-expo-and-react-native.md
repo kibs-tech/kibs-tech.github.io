@@ -8,7 +8,8 @@ weight: 10
 
 # Various problems with Expo, React Native, Native Base
 
---------
+Simple solutions to compilation breakages and expo falling over etc.
+
 ## Error starting Expo:
 
 ```
