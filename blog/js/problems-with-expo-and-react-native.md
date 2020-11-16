@@ -1,8 +1,8 @@
 ---
 date: 2019-12-08
 permalink: /blog/js/problems-with-expo-and-react-native
-linktitle: Solutions to Various Problems with Expo and React Native
-title: Solutions to Various Problems with Expo and React Native 
+linktitle: Solutions to Various Problems with Expo, React Native, Native Base etc
+title: Solutions to Various Problems with Expo and React Native, Native Base etc
 weight: 10
 ---
 
