@@ -17,9 +17,10 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 
 
 In many cases an experienced contract developer
-will be comfortably up and running within a day and will be
+will be comfortably up and running within a day 
+and will soon be
  ploughing through your issue log and 
- helping alleviate the workload of your 
+ helping to alleviate the workload of your 
 stressed out dev teams. If it's an all hands on 
 deck situation they can also help out with all aspects of
  testing.
@@ -30,7 +31,7 @@ Full Stack Enterprise Java environments with web FE and ReactJS.
 
 ## Contact
 If you think a short term workload relief contractor 
-would be of help to you please send me an email 
+would be of help to you please send me an email to:
 <a href="helen@kibs-tech.co.uk">helen@kibs-tech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
