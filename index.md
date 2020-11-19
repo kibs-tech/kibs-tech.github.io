@@ -31,7 +31,15 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="fas fa-sitemap"></i>
 </div>
 
-Enterprise Java Full Stack specialist with ReactJS. Some clients include:
+Enterprise Java Full Stack specialist with ReactJS. 
+<div class='box'>
+<h3>Workload Relief Contract Developer<\h3>
+<p>Workload ramping up? Get in an experienced
+ enterprise developer to help out short term.
+<a href="/short-term-contractor">More ...</a>
+</div>
+
+Some clients include:
 - National Trust
 - J.D. Williams (Simply Be, Jacamo, Marisota)
 - Capgemini (HMRC)
