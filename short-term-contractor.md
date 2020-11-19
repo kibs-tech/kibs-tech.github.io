@@ -29,8 +29,8 @@ deck they can also help with all aspects of
 Full Stack Enterprise Java environments with web FE and ReactJS. 
 
 ## Contact
-Send an email to  
-<a href="contact@kibs-tech.co.uk">contact@kibs-tech.co.uk</a>
+Send me an email to discuss your requirements 
+<a href="helen@kibs-tech.co.uk">helen@kibs-tech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
 <p class="small" >
