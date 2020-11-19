@@ -52,5 +52,5 @@ Some clients include:
 <h3>Workload Relief Contract Developer</h3>
 Workload ramping up? Get in an experienced
  enterprise developer to help out short term.
-<a href="/short-term-contractor">More ...</a>
+<a href="/workload-relief-contractor">More ...</a>
 </div>
