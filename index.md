@@ -32,12 +32,6 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </div>
 
 Enterprise Java Full Stack specialist with ReactJS. 
-<div class='box'>
-<h3>Workload Relief Contract Developer</h3>
-Workload ramping up? Get in an experienced
- enterprise developer to help out short term.
-<a href="/short-term-contractor">More ...</a>
-</div>
 
 Some clients include:
 - National Trust
@@ -54,4 +48,9 @@ Some clients include:
 - Connect Digital Media
 - EMT (Spain)
 
-[Need a short term contractor?](/short-term-contractor)
+<div class='box'>
+<h3>Workload Relief Contract Developer Hire</h3>
+Workload ramping up? Get in an experienced
+ enterprise developer to help out short term.
+<a href="/short-term-contractor">More ...</a>
+</div>
