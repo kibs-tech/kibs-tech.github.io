@@ -33,8 +33,8 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
 Enterprise Java Full Stack specialist with ReactJS. 
 <div class='box'>
-<h3>Workload Relief Contract Developer<\h3>
-<p>Workload ramping up? Get in an experienced
+<h3>Workload Relief Contract Developer</h3>
+Workload ramping up? Get in an experienced
  enterprise developer to help out short term.
 <a href="/short-term-contractor">More ...</a>
 </div>
