@@ -1,5 +1,5 @@
 ---
-permalink: /short-term-contractor
+permalink: /workload-relief-contractor
 head-title: Short term contract software developer hire. 
 head-description: Get a developer in for 1,2 or a few weeks to help with workload.
 ---
