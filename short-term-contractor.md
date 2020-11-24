@@ -14,7 +14,7 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 </div>
 
 
-# Hire a workload relief contractor
+# Hire a workload relief contract developer
 
 In many cases an experienced contract developer
 will be comfortably up and running within a day 
@@ -27,7 +27,7 @@ deck situation they can also help out with all aspects of
 
 
 ## Main supported technology stacks
-Full Stack Enterprise Java environments with web FE and ReactJS. 
+Full Stack Enterprise Java with web FE and MERN stack. 
 
 ## Contact
 If you think a **short term** workload relief contractor 
