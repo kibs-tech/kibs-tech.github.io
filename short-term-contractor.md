@@ -4,16 +4,17 @@ head-title: Short term contract software developer hire.
 head-description: Get a developer in for 1,2 or a few weeks to help with workload.
 ---
 <div class="splash">
-<div class="h1">Release date looming?</div>
+<div class="h1">Workload increasing?</div>
 
-<div class="h2">Workload increasing?</div>
+<div class="h2">Release date looming?</div>
+
 
 <div class="hmj-home-icon"><i class="far fa-tired"></i></div>
 
 </div>
 
 
-# Hire a workload relief contractor
+# Hire a workload relief short term contract developer
 
 
 In many cases an experienced contract developer
