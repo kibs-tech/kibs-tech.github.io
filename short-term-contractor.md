@@ -14,7 +14,7 @@ head-description: Get a developer in for 1,2 or a few weeks to help with workloa
 </div>
 
 
-# Hire a workload relief short term contract developer
+# Hire a workload relief contractor
 
 
 In many cases an experienced contract developer
@@ -31,7 +31,7 @@ deck situation they can also help out with all aspects of
 Full Stack Enterprise Java environments with web FE and ReactJS. 
 
 ## Contact
-If you think a short term workload relief contractor 
+If you think a **short term** workload relief contractor 
 would be of help to you please send me an email to:
 <a href="helen@kibs-tech.co.uk">helen@kibs-tech.co.uk</a>
 
