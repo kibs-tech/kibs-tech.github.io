@@ -46,3 +46,21 @@ Put it back in grrrrrrrrrrr
 ```
 export const ViewPropTypes = { style: null };
 ```
+
+## fontFamily "Roboto_medium" is not a system font
+
+#### Solution
+In App.js
+```
+import * as Font from 'expo-font';
+import { Ionicons } from '@expo/vector-icons';
+
+
+useEffect(() => {
+(async () => await Font.loadAsync({
+  Roboto: require('native-base/Fonts/Roboto.ttf'),
+  Roboto_medium: require('native-base/Fonts/Roboto_medium.ttf'),
+  ...Ionicons.font,
+}))();
+ }, [])
+ ```
