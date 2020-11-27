@@ -64,3 +64,19 @@ useEffect(() => {
 }))();
  }, [])
  ```
+
+
+## Native Base Radio buttons disappear when re-rendered after selecting
+
+#### Solution
+With the Radio component, specify color and selectedColor like this:
+```
+ <Radio
+   onPress={() => {
+    handleValueChange(item.value);
+   }}
+   selected={meta.value === item.value ? true : false}
+   color={"#ccc"}
+   selectedColor={APP_THEME.brandPrimary}
+  />
+```
