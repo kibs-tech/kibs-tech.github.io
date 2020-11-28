@@ -12,9 +12,10 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="far fa-building"></i>
 </div>
 
--  Consultancy and advice
+- Consultancy and advice
+- Legacy system modernisation
 - Backend/frontend programming <br/>
-<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, React, WordPress)</span>
+<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, WordPress, Node, React, ReactNative)</span>
 - Database programming <br />
 <span style="font-size:0.75rem">
  (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
