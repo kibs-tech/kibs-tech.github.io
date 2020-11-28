@@ -32,7 +32,7 @@ Full Stack Enterprise Java with web FE and MERN stack.
 ## Contact
 If you think a **short term** workload relief contractor 
 would be of help to you please send me an email to:
-<a href="helen@kibs-tech.co.uk">helen@kibs-tech.co.uk</a>
+<a href="helen@kibstech.co.uk">helen@kibstech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
 <p class="small" >
