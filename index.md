@@ -13,7 +13,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </div>
 
 - Consultancy and advice
-- Legacy system support and modernisation - websites, intranet and desktop applications
+- Legacy system support and modernisation
 - Backend/frontend programming <br/>
 <span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, WordPress, Node, React, ReactNative)</span>
 - Database programming <br />
