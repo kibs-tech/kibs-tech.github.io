@@ -3,7 +3,9 @@ permalink: /ms-access-database
 head-title: Access database 2020 onwards
 head-description: Access database is still going strong 
 ---
-# Software developer retainer scheme
+
+
+# Is MS Access still being used?
 
 Microsoft still have a lot of love for MS Access. They recognise it as being fantastic for developing robust and very powerful desktop applications.
 
@@ -37,12 +39,13 @@ SQL Server processes queries much faster and efficiently
 ### Improved security
 SQL Server integrates with Windows system security and unlike Access it is designed to securely store confidential information. 
 
-## SQL Server runs in the cloud 
-
-## Less need for database administration.
+### Less need for database administration.
 If the SQL server database falls over (crashes), it can automatically recover and become available again in a matter of minutes.  
 
-Additional benefits of having SQL Server in the cloud (Azure)
+### SQL Server runs in the cloud 
+You can purchase SQL Server and run it on your own server but in most cases these days you want to have it hosted in the cloud
+
+#### Benefits of having SQL Server in the cloud (Azure)
 No downtime
 No hardware costs
 Reduced administration
