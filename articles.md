@@ -4,7 +4,7 @@ head-title: Software development articles
 head-description: Small business friendly software development services (and some enterprise level stuff as well).
 ---
 
-# Services
+# Articles
 
 - Approaches to legacy system modernisation  
 - Jump into the cloud!
