@@ -13,15 +13,14 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 </div>
 
 - Consultancy and advice
-- Legacy system modernisation
+- Legacy system support and modernisation - websites, intranet and desktop applications
 - Backend/frontend programming <br/>
 <span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, WordPress, Node, React, ReactNative)</span>
 - Database programming <br />
 <span style="font-size:0.75rem">
  (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
 </span>
-- Legacy websites, intranet and desktop applications
-- Help with testing and automated testing <br />
+- Automated testing <br />
 <span style="font-size:0.75rem">(Selenium, Cucumber)</span>
 - Modern cloud services, website and app development
 
@@ -32,7 +31,7 @@ head-keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="fas fa-sitemap"></i>
 </div>
 
-Enterprise Java Full Stack specialist with ReactJS. 
+Enterprise Java Full Stack specialist with MERN stack, Firebase and AWS. 
 
 Some clients include:
 - National Trust
