@@ -31,7 +31,7 @@ Full Stack Enterprise Java with web FE and MERN stack.
 
 ## Contact
 If you think a **short term** workload relief contractor 
-would be of help to you please send me an email to:
+would be of help to you please send an email to:
 <a href="helen@kibstech.co.uk">helen@kibstech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
@@ -44,5 +44,5 @@ Docker, Git, Jenkins,
 Thymeleaf, Bootstrap,  JSTL, Struts 2,
 Junit, Mockito, Selenium, CucumberJS,
 FatWire, Endecca,
-Agile, Kanban
+Agile, Kanban, ReactJS, Node
 </p>
