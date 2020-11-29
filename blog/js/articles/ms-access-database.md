@@ -1,12 +1,13 @@
 ---
 permalink: /articles/ms-access-database
-head-title: Is MS Access still being used?
-head_description: MA Access is still going strong but you might want to upgrade to SQL Server
+head-title: Is MS Access still supported by Microsoft?
+head_description: MS Access is still going strong but you might want to upgrade to SQL Server ...
 ---
 
-![MS Access Databse](/assets/images/ms-access.jpg)
+<!-- ![MS Access Databse](/assets/images/ms-access.jpg) -->
+<img src="/assets/images/ms-access.jpg" style="width:200px;" />
 
-# Is MS Access still being used?
+# Is MS Access still supported by Microsoft?
 
 Microsoft still have a lot of love for MS Access. They recognise it as being fantastic for developing robust and very powerful desktop applications. So if you've got an MS Access desktop application you certainly want to keep it. Great stuff!
 

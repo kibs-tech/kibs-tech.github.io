@@ -8,5 +8,5 @@ head_description: Small business friendly software development services (and som
 
 - Approaches to legacy system modernisation  
 - Jump into the cloud!
-- [Is MS Access still used?](/articles/ms-access-database)
+- [Is MS Access still supported by Microsoft?](/articles/ms-access-database)
 - What to do with an old Access database application
