@@ -1,5 +1,5 @@
 ---
-permalink: /ms-access-database
+permalink: /articles/ms-access-database
 head-title: Is MS Access still being used?
 head-description: MA Access is still going strong but you might want to upgrade to SQL Server
 ---
@@ -8,10 +8,7 @@ head-description: MA Access is still going strong but you might want to upgrade 
 
 # Is MS Access still being used?
 
-Microsoft still have a lot of love for MS Access. They recognise it as being fantastic for developing robust and very powerful desktop applications.
-
-
-So if you've got an MS Access desktop application you certainly want to keep it. Great stuff!
+Microsoft still have a lot of love for MS Access. They recognise it as being fantastic for developing robust and very powerful desktop applications. So if you've got an MS Access desktop application you certainly want to keep it. Great stuff!
 
 ## Limitations of MS Access
 MS Access is not scalable. For example it is limited to being 2GB in size which these days isn't that much. So if you've got plans for growth you need to think 
@@ -47,6 +44,9 @@ If the SQL server database falls over (crashes), it can automatically recover an
 You can purchase SQL Server and run it on your own server but in most cases these days you want to have it hosted in the cloud
 
 #### Benefits of having SQL Server in the cloud (Azure)
-No downtime
-No hardware costs
-Reduced administration
+- No downtime
+- No hardware costs
+- Reduced administration
+
+## Jump into cloud!
+If you've got an MS Access database running on a computer in your office it's time to get your database into the cloud. Contact us to see how we can help you do this.
