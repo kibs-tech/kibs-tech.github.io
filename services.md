@@ -6,9 +6,9 @@ head-description: Small business friendly software development services (and som
 
 # Services
 
--- Legacy system modernisation for small businesses
--- DB migration to the cloud
--- Retainer 
--- App development
--- Dynamic website development
--- Workload Relief Enterprise Developer available for sort term hire
+- Legacy system modernisation for small businesses
+- DB migration to the cloud
+- Retainer 
+- App development
+- Dynamic website development
+- Workload Relief Enterprise Developer available for sort term hire
