@@ -1,7 +1,7 @@
 ---
 permalink: /articles/ms-access-database
 head-title: Is MS Access still being used?
-head-description: MA Access is still going strong but you might want to upgrade to SQL Server
+head_description: MA Access is still going strong but you might want to upgrade to SQL Server
 ---
 
 ![MS Access Databse](/assets/images/ms-access.jpg)

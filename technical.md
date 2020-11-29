@@ -1,7 +1,7 @@
 ---
 permalink: /technical
 head-title: Technical witterings of a developer
-head-description: Small business friendly software development services (and some enterprise level stuff as well).
+head_description: Small business friendly software development services (and some enterprise level stuff as well).
 ---
 
 # Technical

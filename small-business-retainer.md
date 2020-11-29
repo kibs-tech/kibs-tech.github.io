@@ -1,7 +1,7 @@
 ---
 permalink: /small-business-retainer
 head-title: Retain a software developer for your business
-head-description: Makes hiring a software developer affordable and manageable. 
+head_description: Makes hiring a software developer affordable and manageable. 
 ---
 # Software developer retainer scheme
 

@@ -1,7 +1,7 @@
 ---
 permalink: /services
 head-title: Software development services
-head-description: Small business friendly software development services (and some enterprise level stuff as well).
+head_description: Small business friendly software development services (and some enterprise level stuff as well).
 ---
 
 # Services
