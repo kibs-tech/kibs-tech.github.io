@@ -1,9 +1,10 @@
 ---
 permalink: /ms-access-database
-head-title: Access database 2020 onwards
-head-description: Access database is still going strong 
+head-title: Is MS Access still being used?
+head-description: MA Access is still going strong but you might want to upgrade to SQL Server
 ---
 
+![MS Access Databse](/assets/images/ms-access.jpg)
 
 # Is MS Access still being used?
 
