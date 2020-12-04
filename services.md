@@ -14,8 +14,9 @@ Updating legacy databases and moving them into the cloud.
 - Legacy bespoke software support and modernisation <br />
 Old websites, intranets and desktop applications
 
-- Software developer retainer <br />
+- <a href="/software-developer-retainer"> Software developer retainer</a> <br />
 An affordable way to hire the services of a developer to do ongoing maintenance and feature enhancement work each month.
+<a href="/software-developer-retainer">More ...</a>
 
 - Mobile app development <br />
 Functional mobile apps that run on all mobile devices
