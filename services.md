@@ -1,14 +1,36 @@
 ---
 permalink: /services
 head-title: Software development services
-head_description: Small business friendly software development services (and some enterprise level stuff as well).
+head_description: Small business friendly software development services and enterprise level services.
 ---
 
-# Services
+# Software Development Services
 
-- Legacy system modernisation for small businesses
-- DB migration to the cloud
-- Retainer 
-- App development
-- Dynamic website development
-- Workload Relief Enterprise Developer available for sort term hire
+## <i class="far fa-building"></i> Small business
+
+- Database modernisation <br />
+Updating legacy databases and moving them into the cloud. 
+
+- Legacy bespoke software support and modernisation <br />
+Old websites, intranets and desktop applications
+
+- Software developer retainer <br />
+An affordable way to hire the services of a developer to do ongoing maintenance and feature enhancement work each month.
+
+- Mobile app development <br />
+Functional mobile apps that run on all mobile devices
+
+- Dynamic website development<br />
+
+
+- Bespoke software <br />
+Most development work undertaken
+
+
+
+## <i class="fas fa-sitemap"></i> Large business and enterprise
+
+- Workload Relief Contract Developer<br />
+Get in an experienced
+ enterprise developer to help out short term.
+<a href="/workload-relief-contractor">More ...</a>

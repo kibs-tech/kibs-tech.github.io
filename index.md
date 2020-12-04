@@ -25,7 +25,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 - Modern cloud services, website and app development
 
 
-## Large Business and Corporate
+## Large Business and Enterprise
 
 <div class="hmj-home-icon">
 <i class="fas fa-sitemap"></i>
