@@ -6,7 +6,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 ---
 # Computing Services 
 
-## Small and Medium Business
+## Small Business
 
 <div class="hmj-home-icon">
 <i class="far fa-building"></i>
