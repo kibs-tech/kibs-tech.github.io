@@ -13,8 +13,8 @@ head_description: Small business friendly software development services and ente
         <div class="card" style="height:350px">
             <div class="card-header center" style="font-size:3rem"><i class="fa fa-database" style="color:#ff8080"></i></div>
             <div class="card-body">
-                <h4 class="card-title">Legacy database support and modernisation</h4>
-                <p class="card-text">Support for old legacy database applications but lets upgrade and get it into the cloud!!</p>
+                <h4 class="card-title">Database application development</h4>
+                <p class="card-text">We support old database applications  too and we'd love to get it upgraded and into the cloud</p>
                 <a href="#" class="btn btn-primary">Read more ...</a>
             </div>
         </div>    
