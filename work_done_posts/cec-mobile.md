@@ -5,7 +5,7 @@ head_description: Mobile app for a caravan club.
 ---
 
 
-# <i class="fas fa-mobile-alt icon-mobile"></i> Mobile App for a Caravan Club
+# <i class="fas fa-mobile-alt icon-mobile-app"></i> Mobile App for a Caravan Club
 
 <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" >
   <ol class="carousel-indicators">
