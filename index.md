@@ -31,7 +31,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="fas fa-sitemap"></i>
 </div>
 
-Enterprise Java Full Stack specialist with MERN stack, Firebase and AWS. 
+Enterprise Java Full Stack specialist with ReactJs/Native/NodeJS, Firebase and AWS. 
 
 Some clients include:
 - National Trust

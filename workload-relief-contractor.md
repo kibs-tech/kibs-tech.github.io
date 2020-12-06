@@ -9,7 +9,7 @@ head_description: Get a developer in for 1,2 or a few weeks to help with workloa
 <div class="h2">Release date looming?</div>
 
 
-<div class="hmj-home-icon"><i class="far fa-tired"></i></div>
+<div class="hmj-home-icon"><i class="far fa-tired" style="color:#c00"></i></div>
 
 </div>
 
@@ -25,14 +25,15 @@ stressed out dev teams. If it's an all hands on
 deck situation they can also help out with all aspects of
  testing.
 
-
 ## Main supported technology stacks
-Full Stack Enterprise Java with web FE and MERN stack. 
+
+Enterprise Java Full Stack with web FE and ReactJs/Native/NodeJS, Firebase and AWS.
 
 ## Contact
-If you think a **short term** workload relief contractor 
+
+If you think a **short term** workload relief contractor
 would be of help to you please send an email to:
-<a href="helen@kibstech.co.uk">helen@kibstech.co.uk</a>
+<a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a>
 
 <hr style='border-top:1px solid #000' />
 <p class="small" >
@@ -44,5 +45,5 @@ Docker, Git, Jenkins,
 Thymeleaf, Bootstrap,  JSTL, Struts 2,
 Junit, Mockito, Selenium, CucumberJS,
 FatWire, Endecca,
-Agile, Kanban, ReactJS, Node
+Agile, Kanban, ReactJS, Gatsby, Native Base, NodeJS, Firebase, AWS
 </p>
