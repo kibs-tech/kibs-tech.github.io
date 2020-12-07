@@ -4,10 +4,10 @@ head-title: Computing Services for Small Business
 head_description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 ---
-<div class="center" style="font-size:2rem; letter-spacing:1rem; ">
+<div class="center" style="font-size:2rem; letter-spacing:1rem; display:none">
 <a href="/database-developer" title="Database application development"><i class="fa fa-database icon-db" ></i></a> 
 <a href="/software-developer-retainer" title="Software developer retainer"><i class="fas fa-code icon-retainer" ></i></a> 
-<i class="fas fa-mobile-alt icon-mobile-app"></i> 
+<a href="/mobile-app-development" title="Mobile app development"><i class="fas fa-mobile-alt icon-mobile-app"></i></a> 
 <a href="/legacy-applications"><i class="far fa-save icon-legacy" title="Legacy application development"></i></a> 
 <a href="/web-developer" title="Dynamic web based applications"><i class="fas fa-laptop-code icon-dev"></i></a> 
 <a href="/workload-relief-contractor"  title="Workload Relief Contract Developer"><i class="fas fa-sitemap icon-wlr"></i></a></div>
@@ -39,7 +39,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="fas fa-sitemap"></i>
 </div>
 
-Enterprise Java Full Stack specialist with ReactJs/Native/NodeJS, Firebase and AWS. 
+I am an Enterprise Java Full Stack developer. Also with JavaScript Full Stack, Firebase and AWS.
 
 Some clients include:
 - National Trust

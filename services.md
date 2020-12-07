@@ -14,7 +14,7 @@ head_description: Small business friendly software development services and ente
             <div class="card-header" ><i class="fa fa-database icon-db x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Database application development</h4>
-                <p class="card-text">We also support old database applications, database upgrading and cloud migration</p>
+                <p class="card-text">I also support old database applications, database upgrading and cloud migration</p>
                 <a href="/database-developer" class="btn btn-primary">Read more ...</a>
             </div>
         </div>    
@@ -60,7 +60,7 @@ head_description: Small business friendly software development services and ente
             <div class="card-header"><i class="fas fa-laptop-code icon-dev x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Dynamic web based applications</h4>
-                <p class="card-text">The backend of our websites can also be used to power mobile apps.</p>
+                <p class="card-text">From huge eCommerce to small start up ideas. The backend of the websites can also be used to power mobile apps.</p>
                 <a href="/web-developer" class="btn btn-primary">Read more ...</a>
             </div>
         </div>
