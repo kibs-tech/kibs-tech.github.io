@@ -27,7 +27,7 @@ deck situation they can also help out with all aspects of
 
 ## Main supported technology stacks
 
-Enterprise Java Full Stack with web FE and ReactJs/Native/NodeJS, Firebase and AWS.
+Enterprise Java Full Stack with web FE and ReactJS/Native/NodeJS, Firebase and AWS.
 
 ## Contact
 
