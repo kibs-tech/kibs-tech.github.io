@@ -1,17 +1,21 @@
 ---
 permalink: /web-developer
-head-title: All development work of existing database applications undertaken.
-head_description: Database programming, upgrading and moving them into the cloud 
+head-title: Website backend programmer
+head_description: Can develop websites with full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc
 ---
-# <i class="fas fa-laptop-code icon-dev" ></i> Dynamic web based applications
+# <i class="fas fa-laptop-code icon-dev" ></i> Dynamic Web Based Applications
 
-We do two types of websites.
+We develop web applications in Java full stack, Javascript full stack and also SPAs in ReactJS.
 
-## Wordpress websites
-Wordpress websites are high on design.
+We generally work along side web designers who take care of all the visuals. Left to do the visuals ourselves we develop clean functional website designs (using Bootstrap).
 
-## Dynamic functional websites
-Just like our mobile apps, these are clean, elogant, functional designs that have a lot going on with them. 
+## What we can do for small businesses and start ups
+
+We can help you if you have a requirement to develop a website with "lots of programming"  e.g. a website that has features such as full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc etc
+
+## Our website backends power mobile apps
+
+The backend of our dynamic websites are also able to power a mobile app.
 
 ## Contact us
-If you would like help with your database please send us an email: [{{site.email}}](mailto:{{site.email}})
+If you would like help with website development please send us an email: [{{site.email}}](mailto:{{site.email}})

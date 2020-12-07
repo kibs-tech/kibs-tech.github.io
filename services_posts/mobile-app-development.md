@@ -5,22 +5,17 @@ head_description: Mobile apps that are elegant, clean and functional
 ---
 # <i class="fas fa-code icon-mobile-app"></i> Mobile App Development
 
-Elegant, clean, functional mobile apps.
+Elegant, clean and functional mobile apps.
 
-## Who is the retainer for
+## A new area of development
 
-- no graphic designs
-- no ground breaking never been done before features
-- reusable components
+Developing mobile apps is new territory for KibsTech. However its a natural extension to our technical skill set and its a whole lot of  
+ fun.  We've done one app and are now working on another.
 
-## Why a retainer is good
+If you would like an app at a reduced rate whilst we build up a portfolio get in contact now!!
 
-Programming and advances in computing is never ending. It seems
-there is always
-something that needs implementing, fixing or re-writing. That can
-make maintaining bespoke software really expensive. Sticking to the
-monthly retainer package will help constrain your
-spending and encourage
-you to prioritize what work really needs to be done.
+## Get yer app ere :)
 
-Send us an email for more details: [{{site.email}}](mailto:{{site.email}})
+
+
+Send us an email about your app: [{{site.email}}](mailto:{{site.email}})

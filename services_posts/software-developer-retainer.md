@@ -36,4 +36,5 @@ Use it to:
 - Project manage 3rd party development work
 
 ## Contact
-For more information about the retainer send us an email telling us a bit about yourself to: [{{site.email}}](mailto:{{site.email}})
+
+If you thing the retainer might be beneficial to your business send us an email telling us a bit about your requirements to: [{{site.email}}](mailto:{{site.email}})

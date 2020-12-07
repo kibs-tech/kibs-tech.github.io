@@ -4,7 +4,7 @@ head-title: Computing Services for Small Business
 head_description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 ---
-<div class="center" style="font-size:2rem; letter-spacing:1rem; display:none">
+<div class="center" style="font-size:2rem; letter-spacing:1rem; ">
 <a href="/database-developer" title="Database application development"><i class="fa fa-database icon-db" ></i></a> 
 <a href="/software-developer-retainer" title="Software developer retainer"><i class="fas fa-code icon-retainer" ></i></a> 
 <i class="fas fa-mobile-alt icon-mobile-app"></i> 
