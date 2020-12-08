@@ -28,18 +28,31 @@
 
         <header class="inner">
           <p id="project_title"><a href="/">{{ site.title | default: site.github.repository_name }}</a></p>
-          <div style="text-align:right">
+          <!-- <div style="text-align:right">
 <a href="mailto:{{site.email}}">{{site.email}}</a> <br />
 07515 675152
-</div>
+</div> -->
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+         
+
+          <ul class="nav justify-content-center" >
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="/">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link"  href="/services">Services</a>
+              
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/contact">Contact</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="#">Blog</a>
+            </li> -->
+          </ul>
         </header>
+
+       
     </div>
 
     <!-- MAIN CONTENT -->
@@ -59,7 +72,6 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
 <p>
-<a href="/">Home</a> | 
 <a href="/blog/js">JS Blog</a>
 </p>
 <p class="small">Weymouth Dorset and North Wales. Mobile remote working advocate.</p>

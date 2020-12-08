@@ -27,7 +27,7 @@ deck situation they can also help out with all aspects of
 
 ## Main supported technology stacks
 
-Enterprise Java Full Stack with web FE and ReactJS/Native/NodeJS, Firebase and AWS.
+Enterprise Java full stack with web FE, JavaScript full stack (ReactJS/Express/NodeJS), Firebase and AWS.
 
 ## Contact
 
@@ -45,5 +45,5 @@ Docker, Git, Jenkins,
 Thymeleaf, Bootstrap,  JSTL, Struts 2,
 Junit, Mockito, Selenium, CucumberJS,
 FatWire, Endecca,
-Agile, Kanban, ReactJS, Gatsby, Native Base, NodeJS, Firebase, AWS
+Agile, Kanban, ReactJS, Native Base, Express, NodeJS, Firebase, AWS
 </p>

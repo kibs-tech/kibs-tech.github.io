@@ -5,15 +5,15 @@ head_description: Makes hiring a software developer affordable and manageable.
 ---
 # <i class="fas fa-code icon-retainer" ></i> Software Developer Retainer
 
-An affordable way for a small business to retain the services of a software developer (me) to do small amounts of work them every month.
+This is an affordable way for a small business to retain the services of a software developer (me) to do small amounts of work them every month.
 
 ## Who is the retainer for
 
-It's ideally suited to a business that has a bespoke software system or website that is more or less stable but could do with someone to do fix issues or add new features.
+It's ideally suited to a business that has a bespoke software system or website that is more or less stable but could do with someone to perform regular maintenance, fix issues or add new features.
 
 ## Why a retainer is good
 
-Programming and advances in computing are never ending. It seems
+Programming and advances in computing are never ending and it seems
 there is always
 something that needs implementing, fixing or re-writing. That can
 make maintaining bespoke software really expensive. Sticking to the
@@ -35,8 +35,8 @@ Use it to:
 ## How much does it cost
 
 I haven't quite worked that out yet! I am open to offers at the moment. The retainer will entitle you to up to 8 hours programming
-and consultancy a month. It will I'm sure be fantastic value.
+and consultancy a month. It will be fantastic value.
 
 ## Contact
 
-If you think the retainer might be beneficial to your business send me an email: [{{site.email}}](mailto:{{site.email}})
+If you think the retainer might be beneficial to your business please send me an email: [{{site.email}}](mailto:{{site.email}})

@@ -4,7 +4,9 @@ head-title: Computing Services for Small Business
 head_description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 ---
-<div class="center" style="font-size:2rem; letter-spacing:1rem; display:none">
+# Computing Services
+
+<div class="center" style="font-size:2rem; letter-spacing:1.5rem; margin-bottom:1.5rem">
 <a href="/database-developer" title="Database application development"><i class="fa fa-database icon-db" ></i></a> 
 <a href="/software-developer-retainer" title="Software developer retainer"><i class="fas fa-code icon-retainer" ></i></a> 
 <a href="/mobile-app-development" title="Mobile app development"><i class="fas fa-mobile-alt icon-mobile-app"></i></a> 
@@ -12,9 +14,8 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <a href="/web-developer" title="Dynamic web based applications"><i class="fas fa-laptop-code icon-dev"></i></a> 
 <a href="/workload-relief-contractor"  title="Workload Relief Contract Developer"><i class="fas fa-sitemap icon-wlr"></i></a></div>
 
-# Computing Services
 
-## Small Business
+## Small business
 
 <div class="hmj-home-icon">
 <i class="far fa-building"></i>
@@ -33,7 +34,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 - Modern cloud services, website and app development
 
 
-## Large Business and Enterprise
+## Large business and enterprise
 
 <div class="hmj-home-icon">
 <i class="fas fa-sitemap"></i>

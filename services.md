@@ -14,7 +14,7 @@ head_description: Small business friendly software development services and ente
             <div class="card-header" ><i class="fa fa-database icon-db x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Database application development</h4>
-                <p class="card-text">I also support old database applications, database upgrading and cloud migration</p>
+                <p class="card-text">includes support for older database applications, database upgrading and cloud migration.</p>
                 <a href="/database-developer" class="btn btn-primary">Read more ...</a>
             </div>
         </div>    
@@ -37,8 +37,8 @@ head_description: Small business friendly software development services and ente
             <div class="card-header"><i class="fas fa-mobile-alt icon-mobile-app x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Mobile app development</h4>
-                <p class="card-text">Functional mobile apps that run on all mobile devices</p>
-                <a href="#" class="btn btn-primary">Read more ...</a>
+                <p class="card-text">Functional mobile apps that run on all mobile devices.</p>
+                <a href="/mobile-app-development" class="btn btn-primary">Read more ...</a>
             </div>
         </div>    
     </div>
@@ -47,7 +47,7 @@ head_description: Small business friendly software development services and ente
             <div class="card-header" ><i class="far fa-save icon-legacy x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Legacy software support and modernisation</h4>
-                <p class="card-text">Development support for old websites, intranets and desktop applications</p>
+                <p class="card-text">Development support for old websites, intranets and desktop applications.</p>
                 <a href="/legacy-applications" class="btn btn-primary">Read more ...</a>
             </div>
         </div>
@@ -60,7 +60,7 @@ head_description: Small business friendly software development services and ente
             <div class="card-header"><i class="fas fa-laptop-code icon-dev x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Dynamic web based applications</h4>
-                <p class="card-text">From huge eCommerce to small start up ideas. The backend of the websites can also be used to power mobile apps.</p>
+                <p class="card-text">From huge eCommerce platforms to small start up websites.</p>
                 <a href="/web-developer" class="btn btn-primary">Read more ...</a>
             </div>
         </div>

@@ -4,10 +4,12 @@ head_title: Contact
 head_desc: Contact
 ---
 
-# Contact
+# Contact Me
 
-Email: contact@kibs-tech.xyz
+Email: <a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a>
 
-Tel or Text: 07515 675152
+Text: 07515 675152
+
+Phone: 07515 675152 - if I'm not able to answer please leave a message and I'll call you back!
 
 <div style="height:15rem"></div>

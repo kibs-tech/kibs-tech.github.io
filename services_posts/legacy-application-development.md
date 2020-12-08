@@ -11,7 +11,7 @@ I am happy to work with legacy software. I have many years of experience in gett
 
 ## Modernising legacy software
 
-Legacy systems exists in all businesses and enterprises and how to modernise them is a major ongoing problem. Many Enterprises are ripping out old software that took years to develop and are starting again using modern cloud based software architectures. Smaller businesses with a more considered budget are, when it's possible, taking a step by step approach to modernisation of their software systems. 
+Legacy systems exists in all businesses and enterprises and how to modernise them is a major ongoing problem. Many enterprises are ripping out old software that took years to develop and are starting again using modern cloud based software architectures. Smaller businesses with a more considered budget are, when it's possible, taking a step by step approach to modernisation of their software systems. 
 
 For a legacy system that has a database at its heart, the simplest yet most effective step to modernise it is to upgrade the database and shift it into the cloud.
 
