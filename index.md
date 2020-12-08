@@ -11,7 +11,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <a href="/software-developer-retainer" title="Software developer retainer"><i class="fas fa-code icon-retainer" ></i></a> 
 <a href="/mobile-app-development" title="Mobile app development"><i class="fas fa-mobile-alt icon-mobile-app"></i></a> 
 <a href="/legacy-applications"><i class="far fa-save icon-legacy" title="Legacy application development"></i></a> 
-<a href="/web-developer" title="Dynamic web based applications"><i class="fas fa-laptop-code icon-dev"></i></a> 
+<a href="/web-developer" title="Dynamic web based applications"><i class="far fa-window-maximize icon-dev"></i></a>
 <a href="/workload-relief-contractor"  title="Workload Relief Contract Developer"><i class="fas fa-sitemap icon-wlr"></i></a></div>
 
 

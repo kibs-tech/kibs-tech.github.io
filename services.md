@@ -57,7 +57,7 @@ head_description: Small business friendly software development services and ente
    <div class="row">
     <div class="col-sm" style="margin-bottom:2rem">
         <div class="card">
-            <div class="card-header"><i class="fas fa-laptop-code icon-dev x3"></i></div>
+            <div class="card-header"><i class="far fa-window-maximize icon-dev x3"></i></div>
             <div class="card-body">
                 <h4 class="card-title">Dynamic web based applications</h4>
                 <p class="card-text">From huge eCommerce platforms to small start up websites.</p>

@@ -3,7 +3,7 @@ permalink: /web-developer
 head-title: Website backend programmer
 head_description: Can develop websites with full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc
 ---
-# <i class="fas fa-laptop-code icon-dev" ></i> Dynamic Web Based Applications
+# <i class="far fa-window-maximize icon-dev" ></i> Dynamic Web Based Applications
 
 I've worked on many major websites over the years and I've also developed quite a few of my own. I develop web applications in Java full stack, Javascript full stack and also SPAs in ReactJS.
 
