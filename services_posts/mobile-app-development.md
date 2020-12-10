@@ -11,7 +11,7 @@ Elegant, clean and functional mobile apps.
 
 Developing mobile apps is new territory for me but it's actually a natural extension to my existing technical skill set.
 
-It's a whole lot of fun!  
+It's also a whole lot of fun!  
 
  I've completed one app (see below) and I am about to start working on another. My plan is to build up some reusable components so that in the future I can develop apps with some great functionality for a very competitive price.
 
@@ -23,7 +23,7 @@ Send me an email telling me all about your app desires: [{{site.email}}](mailto:
 
 
 
-## First completed app <i class="far fa-grin-hearts" style="color:#f00"></i>
+## My first completed app <i class="far fa-grin-hearts" style="color:#f00"></i>
 
 
 
