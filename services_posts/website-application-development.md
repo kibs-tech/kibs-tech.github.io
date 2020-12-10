@@ -5,13 +5,13 @@ head_description: Can develop websites with full authentication (sign up/sign in
 ---
 # <i class="far fa-window-maximize icon-dev" ></i> Dynamic Web Based Applications
 
-I've worked on many major websites over the years and I've also developed quite a few of my own. I develop web applications in Java full stack, Javascript full stack and also SPAs in ReactJS.
+I've worked on many websites over the years from huge eCommerce platforms to small business start ups. I've also developed quite a few websites of my own.
 
-I generally work along side web designers who take care of all the visuals (graphics). Left to do the visuals myself I develop clean functional websites (using Bootstrap).
+I generally work along side web designers who take care of all the visuals (make websites look good). Left to do the visuals myself I develop clean functional websites.
 
 ## What I can do for small businesses and start ups
 
-I can help you if you have a requirement to develop a website with "lots of programming"  e.g. a website that has features such as full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc etc
+I can help you if you have a requirement to develop a highly functional website (i.e. with lots of programming) e.g. a website that has features such as full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc etc
 
 ## My website backends power mobile apps
 

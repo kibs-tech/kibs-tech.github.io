@@ -3,7 +3,8 @@ permalink: /
 head-title: Computing Services for Small Business
 head_description: Database programming, backend programming, legacy systems, desktop applications, testing, websites, cloud, intranet, mobile apps
 head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
----
+--- 
+
 # Computing Services
 
 <div class="center" style="font-size:2rem; letter-spacing:1.5rem; margin-bottom:1.5rem">
@@ -23,14 +24,9 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
 - Consultancy and advice
 - Legacy system support and modernisation
-- Backend/frontend programming <br/>
-<span style="font-size:0.75rem">(Java, C, C++, Fortran, Visual Basic, PHP, Perl, JavaScript, WordPress, Node, React, ReactNative)</span>
-- Database programming <br />
-<span style="font-size:0.75rem">
- (MS Access, MySQL, PostgreSQL, Oracle, SQL Server, NoSQL)
-</span>
-- Automated testing <br />
-<span style="font-size:0.75rem">(Selenium, Cucumber)</span>
+- Backend/frontend programming
+- Database programming
+- Automated testing
 - Modern cloud services, website and app development
 
 
