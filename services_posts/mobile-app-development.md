@@ -13,14 +13,13 @@ Developing mobile apps is new territory for me but it's actually a natural exten
 
 It's also a whole lot of fun!  
 
- I've completed one app (see below) and I am about to start working on another. My plan is to build up some reusable components so that in the future I can develop apps with some great functionality for a very competitive price.
+ I've completed one app (see below) and I am about to start working on another. The apps run on both Android and iOS. My plan is to build up some reusable components so that in the future I can develop apps with some great functionality for a very competitive price.
 
 ## Roll up, roll up, get yer cheap app ere :)
 
 If you would like an app at a reduced rate whilst I build up a portfolio get in contact now!!
 
 Send me an email telling me all about your app desires: [{{site.email}}](mailto:{{site.email}})
-
 
 
 ## My first completed app <i class="far fa-grin-hearts" style="color:#f00"></i>
@@ -81,5 +80,4 @@ This app is for a holiday home caravan club.
 
 ### Technical
 
-React Native frontend with NodeJS serverless backend hosted on Google Firebase. The data source is noSQL Firestore.
-
+React Native, React Base and Expo with serverless NodeJS backend hosted on Firebase.
