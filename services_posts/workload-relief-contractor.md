@@ -1,7 +1,7 @@
 ---
 permalink: /workload-relief-contractor
-head-title: Short term contract software developer hire. 
-head_description: Get a developer in for 1,2 or a few weeks to help with workload.
+head-title: Short term software developer hire. 
+head_description: Get a developer in for 1, 2 or a few weeks to help with workload.
 head_splash: /assets/images/wrc-splash.png
 ---
 <div class="splash">
