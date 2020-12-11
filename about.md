@@ -1,6 +1,6 @@
 ---
 permalink: /about
-head_title: Contact
+head-title: Contact
 head_desc: Contact
 ---
 

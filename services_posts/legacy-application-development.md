@@ -1,6 +1,6 @@
 ---
 permalink: /legacy-applications
-head-title: Development and support of old legacy applications undertaken.
+head-title: Legacy Application Development
 head_description: We'll work with your old website, intranet and desktop applications
 ---
 # <i class="far fa-save icon-legacy" ></i> Legacy Application Development

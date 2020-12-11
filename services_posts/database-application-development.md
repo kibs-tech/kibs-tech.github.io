@@ -1,7 +1,7 @@
 ---
 permalink: /database-developer
-head-title: All development work of existing database applications undertaken.
-head_description: Database programming, upgrading and moving them into the cloud 
+head-title: Database Applications Development.
+head_description: Database programming, upgrading and cloud migration
 ---
 
 # <i class="fa fa-database icon-db" ></i> Database Application Development

@@ -1,6 +1,6 @@
 ---
 permalink: /software-developer-retainer
-head-title: Retain a software developer for your business
+head-title: Software Developer Retainer Scheme
 head_description: Makes hiring a software developer affordable and manageable. 
 ---
 # <i class="fas fa-code icon-retainer" ></i> Software Developer Retainer

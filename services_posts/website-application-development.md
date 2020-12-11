@@ -1,7 +1,7 @@
 ---
 permalink: /web-developer
-head-title: Website backend programmer
-head_description: Can develop websites with full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc
+head-title: Dynamic Web Based Applications
+head_description: Developer for functional websites with full authentication (sign up/sign in), members only area, user profiles, message systems, data admin panels etc
 ---
 # <i class="far fa-window-maximize icon-dev" ></i> Dynamic Web Based Applications
 

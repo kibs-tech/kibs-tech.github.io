@@ -1,6 +1,6 @@
 ---
 permalink: /mobile-app-development
-head-title: Mobile app development
+head-title: Mobile App Development
 head_description: Mobile apps that are elegant, clean and functional 
 ---
 # <i class="fas fa-mobile-alt icon-mobile-app"></i> Mobile App Development
