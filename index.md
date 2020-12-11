@@ -36,7 +36,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <i class="fas fa-sitemap"></i>
 </div>
 
-I am an Enterprise Java full stack developer with JavaScript full stack, Firebase and AWS.
+I am an Enterprise Java full stack developer with JavaScript full stack, Firebase and AWS. Available for hire as a [workload relief contract developer](/workload-relief-contractor)
 
 Some clients include:
 - National Trust

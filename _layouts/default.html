@@ -15,8 +15,16 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
+
+{% if page.head_splash %}
+<meta property="og:image" content="{{ page.head_splash }}" />
+<meta property="twitter:image" content="{{ page.head_splash }}" />
+
+{% else %}
 <meta property="og:image" content="/splash2.jpg" />
 <meta property="twitter:image" content="/splash2.jpg" />
+{% endif %}
+
 <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
