@@ -35,7 +35,7 @@ Use it to:
 ## How much does it cost
 
 I haven't quite worked that out yet! I am open to offers at the moment. The retainer will entitle you to up to 8 hours programming
-and consultancy a month. It will be fantastic value.
+and consultancy a month.
 
 ## Contact
 
