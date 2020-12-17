@@ -28,13 +28,32 @@ deck situation they can also help out with all aspects of
 
 ## Main supported technology stacks
 
-Enterprise Java full stack with web FE, JavaScript full stack (ReactJS/Express/NodeJS), Firebase and AWS.
+Enterprise Java full stack with web FE, JavaScript full stack (ReactJS/NodeJS), Firebase and AWS.
+
+## Some clients I have contracted for
+
+- National Trust
+- J.D. Williams (Simply Be, Jacamo, Marisota)
+- Capgemini (HMRC)
+- Littlewoods
+- CAPITA (Criminal Records Bureau)
+- Tyco Electronics
+- CSE Servlec
+- Ericsson (Sweden)
+- Seagate Software (Ipswich/Vancouver)
+- Retek (London/Minneapolis)
+- Siemens
+- Connect Digital Media (Jaguar/Land Rover)
+- EMT (Spain)
 
 ## Contact
 
 If you think a **short term** workload relief contractor
 would be of help to you please send an email to:
 <a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a>
+
+
+
 
 <hr style='border-top:1px solid #000' />
 <p class="small" >
