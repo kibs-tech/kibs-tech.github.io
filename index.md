@@ -39,6 +39,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 I am an Enterprise Java full stack developer with JavaScript full stack, Firebase and AWS. Available for hire as a [workload relief contract developer](/workload-relief-contractor)
 
 Some clients include:
+
 - National Trust
 - J.D. Williams (Simply Be, Jacamo, Marisota)
 - Capgemini (HMRC)
