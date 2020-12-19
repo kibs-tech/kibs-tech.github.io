@@ -8,8 +8,7 @@ head_description: Small business friendly software development services.
 
 I am a software developer and I help small businesses with their databases and older software.
 
-It would help me greatly if you wouldn't mind answering a few questions about your business software and/or database. If you leave your details at the end I'll get in touch and we can have a talk to see how I can help your business.
+Tell me something about your software and/or database setup and I'll be in touch for a free consultation:
 
-<a class="btn btn-outline-primary" href="https://forms.gle/haeDpv5ZD1NEi2r47" target="_blank">Click here to view questions</a> (opens in new window)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNxa7ElewKd8bXef-1_7JKEUhB_Gr0scX8jY8kRgP-miiuFw/viewform?embedded=true" width="640" height="641" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-If you want to skip the questions and just contact me you can send me an email: [{{site.email}}](mailto:{{site.email}})
