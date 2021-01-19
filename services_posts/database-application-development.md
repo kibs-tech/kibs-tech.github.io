@@ -10,8 +10,13 @@ All development work and programming of existing database applications undertake
 
 ## Older database applications
 
-I am happy to work with older database applications. Whether it is an  MS Access desktop application running on Windows XP or an old browser based admin panel accessing an MySQL server,  I can keep developing them, fixing issues and adding new features, reports and queries etc. I will however encourage you to upgrade the database to the latest version and once you've done that I'll talk to you about modernising your system and securing your data by moving it to the cloud.
+I am happy to work with older database applications. Whether it is an older MS Access desktop application or an old browser based admin application accessing an MySQL server,  I can keep developing them, fixing issues and adding new features. I will however encourage you to upgrade the database to the latest version and once you've done that I'll talk to you about modernising your system and moving your data to the cloud.
+
+## Further reading
+
+[Upgrading Microsoft Access - free assessment and consultation](/ms-access-upgrade)
 
 ## Contact
 
 If you would like help with your database application please send me an email: [{{site.email}}](mailto:{{site.email}})
+

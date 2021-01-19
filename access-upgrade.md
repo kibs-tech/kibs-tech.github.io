@@ -6,19 +6,19 @@ head_description: Keep your Microsoft Access database going strong by upgrading 
 
 # Upgrading Microsoft Access
 
-It's not unusual for a business to still be using an Access database application that they first had developed 15-20 years ago. If they are still running it in an earlier version of Access eg 2003, 2007 then they really should be thinking about upgrading it to 365.
+It's not unusual for a business to still be using an Access database application that they first had developed 15-20 years ago. If they are still running it in an earlier version of Access eg 2003, 2007 then they really should be thinking about upgrading it to the latest version.
 
 ## Some reasons to upgrade
 
 - Databases become corrupt over time
-- They slow down over time
+- Databases slow down over time
 - Windows 10 does not support older versions of Access which can lead to strange behavior and frustrating intermittent problems.
 - It's a security risk. Your unsupported database cannot be updated with the latest security patches which leaves it very vulnerable to attack.  
-- Once you've upgraded it you will then have options to further modernise your setup and make your data securely available to tablets, mobile and web apps.
+- Once you've upgraded your Access database you will have options to further modernise your setup and make your data securely available to tablets, mobile and web apps.
 
 ## How much does upgrading it cost
 
-The average cost for me to do the upgrade is just £300.
+The average cost for me to upgrade an MS Access application is just £300.
 
 ## Contact me for a free assessment
 
