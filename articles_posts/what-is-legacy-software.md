@@ -1,5 +1,5 @@
 ---
-permalink: /articles/ms-access-database
+permalink: /articles/what-is-legacy-software
 head-title: Is MS Access still supported by Microsoft?
 head_description: MS Access is still going strong but you might want to upgrade to SQL Server ...
 ---
