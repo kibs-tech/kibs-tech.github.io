@@ -3,5 +3,8 @@ Gemfile
 Gemfile.lock
 _site/
 articles_posts/problems-upgrading-ms-access-database.md
-articles_posts/upgrading-ms-access-database copy.md
-articles_posts/upgrading-ms-access-database.md
+articles_posts/benfits-of-cloud-to-small-businesses.md
+articles_posts/future-options-for-old-ms-access-database.md
+articles_posts/write-an-api.md
+articles_posts/use-postgres-not-sql-server.md
+articles_posts/migrate-ms-access-backend-to-the-cloud.md

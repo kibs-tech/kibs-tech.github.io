@@ -1,7 +1,7 @@
 ---
 permalink: /contact
 head-title: Contact
-head_desc: Contact
+head_description: Contact
 ---
 
 # Contact Me
