@@ -60,4 +60,14 @@ The database should be split into its two components meaning the backend (BE) wh
 
 ## Common problems
 
+### Unsupported 3rd party dll's
+
 You may be using 3rd party dlls that aren't supported anymore. Hopefully they will still work. If not you will have to be creative and find an alternative way of doing whatever isn't working anymore.
+
+### Runtime error 13 type mismatch
+
+VBA Access projects default to ADO when DAO is not explicitly specified. This can result in an error 13 being thrown and/or slowness. The fix is to explicitly specify DAO throughout.
+
+### Error 3845
+
+Access does not support linking to Access database or Excel worksheet  saved in a format that is a later version than the current database format. Solution: search the code for the creation of any temporary database tables and update the jet engine file format accordingly
