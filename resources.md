@@ -39,6 +39,8 @@ The following are modern alternatives to MS Access. They are no code application
 
 [Reasons to move your database into the cloud](/articles/move-database-into-cloud)
 
+[Options to future proof an MS Access database application](/articles/future-options-for-old-ms-access-database)
+
 ## Technical blog
 [A JS Full Stack Journey ](/blog/js)
 
