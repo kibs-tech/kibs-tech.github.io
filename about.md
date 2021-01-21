@@ -1,17 +1,43 @@
 ---
 permalink: /about
-head-title: Contact
-head_desc: Contact
+head-title: About KibsTech Developer
+head_desc: Small business and enterprise developer.
+noindex: true
 ---
 
 # About Me
 
-I've been a software developer working on a contract basis for over 20 years. I started off as a wanna be musician then for some reason I started to like mathematics and ended up doing a PhD in it! After a year as a research assistant at university I moved into software development.
+I've been a software developer working on a contract basis for over 20 years. I started off as a wanna be musician then for some reason I started to like mathematics and ended up doing a PhD in it! After a year as a research assistant at university I moved into software development. I'm also crazy about windsurfing.
 
-If it's windy I will likely be windsurfing. That's because I'm a bit crazy about windsurfing. As most windsurfers will tell you it's a lifelong addiction. If it's not windy I'll be messing about in the waves on a paddle board and if there are no waves I'll probably be trying not to hurt myself going slowly on a mountain bike somewhere.
+## Small business development experience
 
-When I'm able to I don't work the usual office hours. That's how I manage to do the outdoor stuff as well.
+- Consultancy and advice
+- Legacy system support and modernisation
+- Backend/frontend programming
+- Database programming
+- Automated testing
+- Modern cloud services, website and app development
 
-The best time to catch me is in the morning (any day of the week) or in the evening.
+## Large business and enterprise
+
+I am an Enterprise Java and JavaScript full stack developer and I am available for hire as a [workload relief contract developer](/workload-relief-contractor)
+
+Some clients include:
+
+- National Trust
+- J.D. Williams (Simply Be, Jacamo, Marisota)
+- Capgemini (HMRC)
+- Littlewoods
+- CAPITA (Criminal Records Bureau)
+- Tyco Electronics
+- CSE Servlec
+- Ericsson (Sweden)
+- Seagate Software (Ipswich/Vancouver)
+- Retek (London/Minneapolis)
+- Siemens
+- Connect Digital Media
+- EMT (Spain)
+
+
 
 <div style="height:15rem"></div>
