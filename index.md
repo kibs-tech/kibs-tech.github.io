@@ -1,6 +1,6 @@
 ---
 permalink: /
-head-title: KibsTech Computing Services
+head-title: KibsTech Computing
 head_description: Small business friendly software development services. Database programming, backend programming, legacy systems, legacy system modernisation, desktop applications, testing, websites, cloud, intranet, mobile apps
 head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, java, c, c++, PHP, perl, JavaScript, Fortran, Visual Basic
 --- 
@@ -33,7 +33,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
             <div class="card-header" ><i class="far fa-save icon-legacy x3"></i></div>
             <div class="card-body">
                 <h2 class="card-title">Legacy software support and modernisation</h2>
-                <p class="card-text">Development support for older custom software or websites and help with modernisation</p>
+                <p class="card-text">Development support for older custom software or websites and with plans for  modernisation</p>
                 <a href="/legacy-applications" class="btn btn-primary">Read more ...</a>
             </div>
         </div>
