@@ -69,7 +69,7 @@ Your data in the cloud will be more secure than the data is sitting on a network
 
 ### The data is just for the business, it will never be displayed publicly
 
-Being able to share your data with mobile and web apps is not just about displaying it to the public. It's also required for modern internal business only and B2B applications. Imagine being able to view and edit at least some of your data whilst out of the office. You probably already exchange data with other external services such as CMS and analysis applications and the only way you can do what with an Access database is to export and import data in the form of manual entry or data files such as Excel or csv. Furthermore every time you export your data somewhere you are exposing it and you should also make sure that you're not breaching the requirements of the Data Protection Act and various auditing bodies.
+Being able to share your data with mobile and web apps is not just about displaying it to the public. It's also required for modern internal business only and B2B applications. Imagine being able to view and edit at least some of your data whilst out of the office. You probably already exchange data with other external services such as CRM and analysis applications and the only way you can do what with an Access database is to export and import data in the form of manual entry or data files such as Excel or csv. Furthermore every time you export your data somewhere you are exposing it and you should also make sure that you're not breaching the requirements of the Data Protection Act and various auditing bodies.
 
 ## Signs not being in the cloud is holding you back
 
