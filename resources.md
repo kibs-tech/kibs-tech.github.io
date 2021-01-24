@@ -6,6 +6,20 @@ head_description: Useful resources and articles for modern cloud based developme
 
 # Resources
 
+
+## Latest Articles
+
+[Upgrading or converting Microsoft Access 2000, 2003 or 2007](/articles/upgrading-ms-access-database)
+
+[Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
+
+[Options to future proof an MS Access database application](/articles/future-options-for-old-ms-access-database)
+
+[Reasons to move your database into the cloud](/articles/move-database-into-cloud)
+
+## Technical blog
+[A JS Full Stack Journey ](/blog/js)
+
 ## Cloud hosting providers
 
 [Google Firebase](https://firebase.google.com/) - Google have a generous free tier which will suffice for many small web apps and API hosting. Firebase is well suited to mobile app development. It also provides all manner of modern day authentication which can save a developer quite a lot of work. Naturally encourages serverless approach.
@@ -33,14 +47,5 @@ The following are modern alternatives to MS Access. They are no code application
 - [Microsoft Powerapps](https://powerapps.microsoft.com/)
 - [Zoho Creator](https://www.zoho.com/creator/)
 
-## Articles
 
-[Upgrading or converting MS Access 2000, 2003 or 2007](/articles/upgrading-ms-access-database)
-
-[Reasons to move your database into the cloud](/articles/move-database-into-cloud)
-
-[Options to future proof an MS Access database application](/articles/future-options-for-old-ms-access-database)
-
-## Technical blog
-[A JS Full Stack Journey ](/blog/js)
 

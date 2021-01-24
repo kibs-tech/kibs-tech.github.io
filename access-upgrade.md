@@ -1,6 +1,6 @@
 ---
 permalink: /ms-access-upgrade
-head-title: Upgrading your MS Access database
+head-title: Upgrading your Microsoft Access database
 head_description: Keep your Microsoft Access database going strong by upgrading it to the latest version.
 ---
 
@@ -18,11 +18,11 @@ It's not unusual for a business to still be using an Access database application
 
 ## Upgrading it yourself
 
-If you're up to the challenge then by all means try upgrading the application yourself. I have described a best practice procedure for performing an MS Access upgrade <a href="/articles/upgrading-ms-access-database" target="_blank">here</a>. If you're not sure about it or know you need help then contact me for a free assessment of your application. I'd love to see it!
+If you're up to the challenge then by all means try upgrading the application yourself. It may turn out to be pretty straight forward. A useful best practice guide for performing an Microsoft Access upgrade can be found <a href="/articles/upgrading-ms-access-database" target="_blank" alt="How to upgrade a microsoft access database">here</a>. If you're not sure about it or know you need help then contact me for a free assessment of your application. I'd love to see it!
 
 ## How much does upgrading cost
 
-At present the average cost for me to upgrade an MS Access application is just £300 but it does depend on the size and complexity of the application.
+It depends on the size and complexity of the database application but on average it costs around £300.
 
 ## Contact me for a free assessment
 

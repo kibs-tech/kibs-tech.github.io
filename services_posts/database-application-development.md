@@ -21,3 +21,5 @@ If you would like help with your database application please send me an email: [
 [Upgrading Microsoft Access - free assessment and consultation](/ms-access-upgrade)
 
 [Upgrading or converting MS Access 2000, 2003 or 2007](/articles/upgrading-ms-access-database)
+
+[Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)

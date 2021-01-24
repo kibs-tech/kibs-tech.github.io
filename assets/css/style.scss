@@ -42,6 +42,9 @@ color:#267CB9;
 text-decoration:none;
 }
 
+h3 {
+  font-size:21px
+}
 #project_title a{
 text-decoration:none;
 color:#fff;
@@ -122,3 +125,55 @@ color:orange
 a.nav-link{text-decoration:none}
 a.nav-link:hover{ color:#0F79D0;  }
 
+.splash-back-cloud{
+    background-image:url('/assets/images/cloud.png'); 
+    height:355px;
+}
+
+.splash-back{
+    -webkit-background-size: cover;
+        -moz-background-size: center cover;
+        background-size: cover;
+        background-position: center top;
+       
+        // background-image:url('/images/todd-quackenbush-B60t4HvxznY-unsplash.jpg'); 
+        // max-width:640px;
+        // height: 100%;
+        // width:100%; 
+        color:#fff;
+        //  vertical-align:middle;
+        margin-bottom:2rem;
+    }
+
+    .splash-back-overlay{
+      background:  rgba(60, 62, 72, 0.3);
+    //   width:640px;
+       height:100%;
+    //    padding-top: 100px; 
+    //    position: relative;
+    //    vertical-align:middle;
+    //   padding-bottom:100px
+  }
+
+  .splash-back-overlay h1{
+    color:#fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+    // line-height: 355px;
+    // vertical-align:middle;
+    // color: white;
+    // margin-left:10px;
+    padding-top:100px;
+    // text-transform: uppercase;
+    text-align:center;
+    // position: absolute;
+    // top: 50%;
+    // left: 50%;
+  }
+
+
+
+  
+
+
+  
