@@ -9,7 +9,7 @@ head_description: Useful resources and articles for modern cloud based developme
 
 ## Latest Articles
 
-[Upgrading or converting Microsoft Access 2000, 2003 or 2007](/articles/upgrading-ms-access-database)
+[Upgrading or converting older versions of MS Access (2000, 2003, 2007 ...)](/articles/upgrading-ms-access-database)
 
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
 
@@ -17,8 +17,6 @@ head_description: Useful resources and articles for modern cloud based developme
 
 [Reasons to move your database into the cloud](/articles/move-database-into-cloud)
 
-## Technical blog
-[A JS Full Stack Journey ](/blog/js)
 
 ## Cloud hosting providers
 

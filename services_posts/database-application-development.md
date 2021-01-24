@@ -12,14 +12,13 @@ All development work and programming of existing database applications undertake
 
 I am happy to work with older database applications. Whether it is an older MS Access desktop application or an old browser based admin application accessing an MySQL server,  I can keep developing them, fixing issues and adding new features. I will however encourage you to upgrade the database to the latest version and once you've done that I'll talk to you about modernising your system and moving your data to the cloud.
 
+## Special database application services
+
+- [Getting Microsoft Access applications into the cloud](/articles/microsoft-access-and-the-cloud) <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i> 
+
+- [Microsoft Access upgrade service - free assessment and consultation](/ms-access-upgrade)
+
 ## Contact
 
 If you would like help with your database application please send me an email: [{{site.email}}](mailto:{{site.email}})
 
-## Further reading
-
-[Upgrading Microsoft Access - free assessment and consultation](/ms-access-upgrade)
-
-[Upgrading or converting MS Access 2000, 2003 or 2007](/articles/upgrading-ms-access-database)
-
-[Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
