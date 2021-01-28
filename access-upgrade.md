@@ -28,7 +28,7 @@ It's not unusual for a business to still be using an Access database application
 
 ## Upgrading it yourself
 
-If you're up to the challenge then by all means try upgrading the application yourself. It may turn out to be pretty straight forward. A useful best practice guide for performing an Microsoft Access upgrade can be found <a href="/articles/upgrading-ms-access-database" target="_blank" alt="How to upgrade a microsoft access database">here</a>. If you're not sure about it or know you need help then contact me for a free assessment of your application. I'd love to see it!
+If you're up to the challenge then by all means try upgrading the application yourself. It may turn out to be pretty straight forward. A useful best practice guide for performing a Microsoft Access upgrade can be found <a href="/articles/upgrading-ms-access-database" target="_blank" alt="How to upgrade a microsoft access database">here</a>. If you're not sure about it or know you need help then contact me for a free assessment of your application. I'd love to see it!
 
 ## How much does upgrading cost
 
