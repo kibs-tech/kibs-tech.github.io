@@ -63,7 +63,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
             <div class="card-header"><i class="fas fa-mobile-alt icon-mobile-app x3"></i></div>
             <div class="card-body">
                 <h2 class="card-title">Mobile app development</h2>
-                <p class="card-text">Functional mobile apps that run on all mobile devices.</p>
+                <p class="card-text">Functional mobile apps that run on all mobile devices. Both web apps and native</p>
                 <a href="/mobile-app-development" class="btn btn-primary">Read more ...</a>
             </div>
         </div>    

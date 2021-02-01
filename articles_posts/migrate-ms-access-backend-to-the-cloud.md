@@ -109,7 +109,7 @@ There are actually 4 stages along the path to moving your data into the cloud. A
 
 ### Stage 1
 
-- Upgrade Access frontend to the latest version
+- Upgrade Access frontend to the latest version. This is something you should do even if you don't want to move the backend into the cloud. See my [Microsoft Access Upgrade Service](/ms-access-upgrade).
 
 ### Stage 2
 
@@ -126,7 +126,7 @@ There are actually 4 stages along the path to moving your data into the cloud. A
 
 ## Jump into the cloud!
 
-Im already excited about getting you into the cloud so please contact me for a free assessment and lets see what we can do.
+I'm already excited about getting you into the cloud so please contact me for a free assessment and lets see what we can do.
 
 [Contact Me](/contact)
 

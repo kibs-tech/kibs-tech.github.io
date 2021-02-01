@@ -15,6 +15,13 @@ Legacy systems exists in all businesses and enterprises and how to modernise the
 
 For a legacy system that has a database at its heart, the simplest yet most effective step to modernise it is to upgrade the database and shift it into the cloud.
 
+
+## Special services for legacy Microsoft Access applications
+
+- [Getting Microsoft Access applications into the cloud](/articles/microsoft-access-and-the-cloud) <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i> 
+
+- [Microsoft Access upgrade service - free assessment and consultation](/ms-access-upgrade)
+
 ## Contact
 
 If you have old bespoke software that you would like help with send me an email: [{{site.email}}](mailto:{{site.email}})
