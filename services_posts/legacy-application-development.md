@@ -18,7 +18,7 @@ For a legacy system that has a database at its heart, the simplest yet most effe
 
 ## Special services for legacy Microsoft Access applications
 
-- [Getting Microsoft Access applications into the cloud](/articles/microsoft-access-and-the-cloud) <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i>  <i class="fas fa-heart" ></i> 
+- Special offer: [Microsoft Access database cloud migration service](/landing/ms-access-cloud) <i class="fas fa-heart" ></i>
 
 - [Microsoft Access upgrade service - free assessment and consultation](/ms-access-upgrade)
 
