@@ -11,7 +11,7 @@ head_description: Freeing your Microsoft Access data and making it available to 
   </ol>
 </nav>
 
-# Want to make your MS Access database available to Mobile and Web apps?
+# Want to make your MS Access database available to mobile and web apps?
 
 - Have you got ideas for mobile and web apps but your data is stuck in Microsoft Access?
 - Do you wish you could do more with your Microsoft Access database?
@@ -22,7 +22,7 @@ If the answer is yes then you need to get your Access database into the cloud!
 ## Special offer
 
 <div class="alert alert-success" role="alert">
-I'm currently offering a free detailed consultation. Let me look at your MS Access database application and I'll show you how to open it up to web and mobile.  This is a real opportunity for a business to move into the cloud at a big discount <i class="fas fa-heart" ></i>
+I'm currently offering a free detailed consultation. Let me look at your MS Access database application and I'll show you how to open it up to web and mobile.  This is a real opportunity for a business to move into the cloud at a discount <i class="fas fa-heart" ></i>
 </div>
 
 ## Further reading
