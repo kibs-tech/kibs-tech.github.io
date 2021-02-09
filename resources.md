@@ -6,12 +6,13 @@ head_description: Useful resources and articles for modern cloud based developme
 
 # Resources
 
-
 ## Latest Articles
 
 [Upgrading or converting older versions of MS Access (2000, 2003, 2007 ...)](/articles/upgrading-ms-access-database)
 
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
+
+[Oracle to PostgreSQL Migration Notes](/articles/oracle-to-postgres-problems)
 
 [Common problems converting Microsoft Access to PostgreSQL](/access-to-progress-problems)
 

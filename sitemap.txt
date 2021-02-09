@@ -14,3 +14,5 @@ https://kibstech.co.uk/articles/upgrading-ms-access-database
 https://kibstech.co.uk/articles/move-database-into-cloud
 https://kibstech.co.uk/articles/articles/future-options-for-old-ms-access-database
 https://kibstech.co.uk/articles/microsoft-access-and-the-cloud
+https://kibstech.co.uk/articles/articles/oracle-to-postgres-problems
+https://kibstech.co.uk/access-to-progress-problems
