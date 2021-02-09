@@ -12,9 +12,9 @@ head_description: Useful resources and articles for modern cloud based developme
 
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
 
-[Oracle to PostgreSQL Migration Notes](/articles/oracle-to-postgres-problems)
-
 [Common problems converting Microsoft Access to PostgreSQL](/access-to-progress-problems)
+
+[Oracle to PostgreSQL Migration Notes](/articles/oracle-to-postgres-problems)
 
 [Options to future proof an MS Access database application](/articles/future-options-for-old-ms-access-database)
 
