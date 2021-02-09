@@ -15,18 +15,17 @@ head_description: Freeing your Microsoft Access data and making it available to 
 
 - Have you got ideas for mobile and web apps but your data is stuck in Microsoft Access?
 - Do you wish you could do more with your Microsoft Access database?
+- Does your Microsoft Access application feel old, slow and dated?
 
-If the answer is yes then you need to get your Access database into the cloud!
+If you answered yes to any of those questions then you need to get your Access database into the cloud!
 
+## Free advice and consultation
 
-## Special offer
-
-<div class="alert alert-success" role="alert">
-I'm currently offering a free detailed consultation. Let me look at your MS Access database application and I'll show you how to open it up to web and mobile.  This is a real opportunity for a business to move into the cloud at a discount <i class="fas fa-heart" ></i>
-</div>
+Tell me about your MS Access database application and I'll happily tell you how you can modernise it and open it up to web and mobile. I love doing this with Access applications so please do get in contact for a chat.
 
 ## Further reading
 
+If you want to read more about MS Access and the cloud then this is the article for you:
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
 
 ## Contact me
