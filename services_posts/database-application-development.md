@@ -14,7 +14,7 @@ I am happy to work with older database applications. Whether it is an older MS A
 
 ## Special database application services
 
-- Special offer: [Microsoft Access database cloud migration service](/landing/ms-access-cloud) <i class="fas fa-heart" ></i>
+- [Microsoft Access database cloud migration service](/landing/ms-access-cloud)
 
 - [Microsoft Access upgrade service - free assessment and consultation](/ms-access-upgrade)
 

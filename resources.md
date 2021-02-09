@@ -13,10 +13,11 @@ head_description: Useful resources and articles for modern cloud based developme
 
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
 
+[Common problems converting Microsoft Access to PostgreSQL](/access-to-progress-problems)
+
 [Options to future proof an MS Access database application](/articles/future-options-for-old-ms-access-database)
 
 [Reasons to move your database into the cloud](/articles/move-database-into-cloud)
-
 
 ## Cloud hosting providers
 
