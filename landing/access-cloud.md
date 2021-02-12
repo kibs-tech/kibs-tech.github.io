@@ -19,9 +19,9 @@ head_description: Freeing your Microsoft Access data and making it available to 
 
 If you answered yes to any of those questions then you need to get your Access database into the cloud!
 
-## Free advice and consultation
+## Free consultation and demo
 
-Tell me about your MS Access database application and I'll happily tell you how you can modernise it and open it up to web and mobile. I love doing this with Access applications so please do get in contact for a chat.
+Tell me about your MS Access database application or even better let me look at it and I'll happily tell you about ways you can modernise it, what the benefits to your business will be and what opening it up to web and mobile could do for you. If you like what you hear then the next step would be to do a free demo of the cloud version of your application to test the concept out and to visually show you some of the benefits.
 
 ## Further reading
 
