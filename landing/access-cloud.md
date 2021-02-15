@@ -1,7 +1,7 @@
 ---
 permalink: /landing/ms-access-cloud
 head-title: Microsoft Access Database Cloud Migration Service
-head_description: Freeing your Microsoft Access data and making it available to mobile and websites.
+head_description: Free your Microsoft Access data and generate new income revenue streams by making it available to mobile and websites.
 ---
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -14,8 +14,9 @@ head_description: Freeing your Microsoft Access data and making it available to 
 # Want to make your MS Access database available to mobile and web apps?
 
 - Have you got ideas for mobile and web apps but your data is stuck in Microsoft Access?
+- Could the data in your Access database provide you with additional revenue streams
+- Could some of the data in your Access database be made available to your customers for a fee?
 - Do you wish you could do more with your Microsoft Access database?
-- Does your Microsoft Access application feel old, slow and dated?
 
 If you answered yes to any of those questions then you need to get your Access database into the cloud!
 

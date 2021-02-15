@@ -21,10 +21,10 @@ It's not unusual for a business to still be using an Access database application
 
 - Databases become corrupt over time
 - Databases slow down over time
-- Windows 10 does not support older versions of Access which can lead to strange behavior and frustrating intermittent problems.
+- Windows 10 does not support older versions of Access which can lead to strange behavior and frustrating intermittent problems and crashes.
 - It's a security risk. Your unsupported database cannot be updated with the latest security patches which leaves it very vulnerable to attack.
 - It will make your Access database fit for the future and keep it running for many more years.  
-- Once you've upgraded you will have further options to modernise your setup. For example you could make the data securely available to tablets, mobile and web apps. This is another service that I offer (Further reading: [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud) ).
+- Once you've upgraded you will have further options to modernise your setup. For example you could make the data securely available to tablets, mobile and web apps opening up new revenue streams. This is another service that I offer (Further reading: [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud) ).
 
 ## Upgrading it yourself
 
@@ -32,7 +32,7 @@ If you're up to the challenge then by all means try upgrading the application yo
 
 ## How much does upgrading cost
 
-It need not be expensive. You  might be pleasantly surprised. Some clients of mine have previously been quoted thousands. Thankfully they looked elsewhere! All Access applications are different and how much an upgrade costs depends on the size and complexity of the application.  I will need to look at it first and then I'll give you a quote.
+It need not be expensive. Some clients of mine have previously been quoted thousands but thankfully they looked elsewhere! All Access applications are different and how much an upgrade costs depends on the size and complexity of the application.  I will need to look at it first and then I'll give you a quote.
 
 ## Contact me for a free assessment
 
