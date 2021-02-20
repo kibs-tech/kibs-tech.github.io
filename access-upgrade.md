@@ -27,7 +27,7 @@ Access Job Schedular
 <div class="h3">Faster <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> More Secure <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> Stable <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i></div>
 <hr class="my-4">
  <p>
-      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote Now</a>
+      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote</a>
 </p>
   </div>
 
@@ -54,6 +54,6 @@ If you're up to the challenge then by all means try upgrading the application yo
 It need not be expensive. Some clients of mine have previously been quoted thousands but thankfully they looked elsewhere! All Access applications are different and how much an upgrade costs depends on the size and complexity of the application.  I will need to look at it first and then I'll give you a quote.
 
 <p class="center">
-      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote Now</a>
+      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote</a>
       </p>
      
