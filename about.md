@@ -7,7 +7,7 @@ noindex: true
 
 # About Me
 
-I've been a software developer working on a contract basis for over 20 years. I started off as a wanna be musician then for some reason I started to like mathematics and ended up doing a PhD in it! After a year as a research assistant at university I moved into software development. I'm also crazy about windsurfing.
+My name is Helen. I've been a software developer working on a contract basis for over 25 years. I started off as a wanna be musician then for some reason I started to like Mathematics and ended up doing a PhD in it! After a year as a research fellow at University I moved into software development. I'm also crazy about windsurfing.
 
 ## Small business development experience
 

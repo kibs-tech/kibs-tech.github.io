@@ -13,6 +13,21 @@ head_description: Keep your Microsoft Access database going strong by upgrading 
 
 # Microsoft Access Upgrade Service
 
+
+<div class="jumbotron center" style="padding-top:20px;padding-bottom:20px; border:1px solid #000">
+ <!-- <div class="lead h1">Get it sorted!</div>-->
+<img src="/assets/images/access2.png" style="width:50px;margin:0 auto"/>
+<div class="lead h2" style="color:#A33639">Upgrade MS Access. Keep it going!</div>
+
+<!-- <div class="lead h1"></div> -->
+<div class="h3">Faster <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> More Secure <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> Stable <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i></div>
+<hr class="my-4">
+ <p>
+      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote Now</a>
+</p>
+  </div>
+
+
 ## Upgrade to Microsoft 365 on Windows 10
 
 It's not unusual for a business to still be using an Access database application that they first had developed 15-20 years ago. If they are still running it in an earlier version of Access eg 2003, 2007 then they really should think about upgrading it to the latest version.
@@ -34,9 +49,6 @@ If you're up to the challenge then by all means try upgrading the application yo
 
 It need not be expensive. Some clients of mine have previously been quoted thousands but thankfully they looked elsewhere! All Access applications are different and how much an upgrade costs depends on the size and complexity of the application.  I will need to look at it first and then I'll give you a quote.
 
-## Contact me for a free assessment
-
-Fill out the form below and I'll be in touch. Or you can email me  <a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi7KEoN-CO4_nB_DrI6EC35gUqCtctWBXNYAeWJxirfITzcA/viewform?embedded=true" width="100%" height="1800" frameborder="0" marginheight="0" marginwidth="0" style="margin: 0 auto;">Loading…</iframe>
-
+<p class="center">
+      <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote Now</a>
+      </p>
