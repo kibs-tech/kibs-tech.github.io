@@ -1,12 +1,15 @@
 ---
 ---
-
-
 @import "{{ site.theme }}";
 
 
 body{
-    font-family: Lato,sans-serif;
+    // font-family: Lato,sans-serif;
+    font-family: "AvenirNext","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+    font-family: "AvenirNext","Helvetica Neue",Helvetica,Arial,sans-serif;   
 }
 
 img.avatar {border-radius:50%; width:80px}
@@ -79,7 +82,7 @@ div.h1, div.h2, div.h3
 {
 font-weight:bold; 
 text-align:center;
-font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+// font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 letter-spacing: -1px;
 }
 div.h1 {font-size:40px; }

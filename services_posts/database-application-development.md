@@ -16,7 +16,7 @@ I am happy to work with older database applications. Whether it is an older MS A
 
 - [Microsoft Access database cloud migration service](/landing/ms-access-cloud)
 
-- [Microsoft Access upgrade service - free assessment and consultation](/ms-access-upgrade)
+- [Microsoft Access upgrade service - free fixed price quote](/ms-access-upgrade)
 
 ## Contact
 
