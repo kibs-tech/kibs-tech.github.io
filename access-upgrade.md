@@ -21,10 +21,10 @@ Access Job Schedular
 <div class="jumbotron center" style="padding-top:20px;padding-bottom:20px; border:1px solid #000">
  <!-- <div class="lead h1">Get it sorted!</div>-->
 <img src="/assets/images/access2.png" style="width:50px;margin:0 auto"/>
-<div class="lead h2" style="color:#A33639">Upgrade MS Access. Keep it going!</div>
+<div class="h2" style="color:#A33639">Upgrade MS Access. Keep&nbsp;it&nbsp;going!</div>
 
 <!-- <div class="lead h1"></div> -->
-<div class="h3">Faster <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> More Secure <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i> Stable <i class="fas fa-check" style="margin-right:1.3rem; color:green"></i></div>
+<div class="h3">Faster&nbsp;<i class="fas fa-check" style="margin-right:1rem; color:green"></i> More Secure&nbsp;<i class="fas fa-check" style="margin-right:1rem; color:green"></i> Stable&nbsp;<i class="fas fa-check" style="margin-right:1.3rem; color:green"></i></div>
 <hr class="my-4">
  <p>
       <a class="btn btn-outline-primary btn-lg" href="/ms-access-upgrade-free-quote">Get a Free Fixed Price Quote</a>
