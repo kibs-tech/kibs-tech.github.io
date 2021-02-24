@@ -9,7 +9,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div class="container" id="services">
 <div style="text-align:center; margin-bottom:2rem">
 <h1>KibsTech Computing Services</h1>
-<p class="d-none d-sm-block">Small business friendly software development services. Database programming, backend programming, legacy systems, desktop applications, legacy system modernisation, digital transformation, website applications, cloud services, intranet and mobile apps.</p>
+<p class="d-none d-sm-block">Small business friendly software development services. Database programming, backend programming, legacy systems and modernisation, desktop applications, digital transformation, website applications, cloud services, intranet and mobile apps.</p>
 </div>
 
   <div class="row" >
