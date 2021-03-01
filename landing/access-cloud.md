@@ -11,6 +11,13 @@ head_description: Free your Microsoft Access data and generate new income revenu
   </ol>
 </nav>
 
+<div class="alert alert-primary center">
+<h2 style="background:none">For Free Consultation</h2>
+ <div style="font-size:2rem; font-weight:bold">Phone/Text me: <span class="nobr">07515 675152</span></div>
+ <div style="font-size:1.5rem"><a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a><br />
+ or chat online now!</div>
+ </div>
+
 # Want to make your MS Access database available to mobile and web apps?
 
 - Have you got ideas for mobile and web apps but your data is stuck in Microsoft Access?
@@ -29,9 +36,9 @@ Tell me about your MS Access database application or even better let me look at 
 If you want to read more about MS Access and the cloud then this is the article for you:
 [Microsoft Access and the Cloud](/articles/microsoft-access-and-the-cloud)
 
-## Contact me
+<!-- ## Contact me
 
 Fill out the form below or you can email me  <a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJdrGTO9-KIqHPLsEEzlGg97zuNsCOn-aWuZ-8bzZFt8rGUA/viewform?embedded=true" width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJdrGTO9-KIqHPLsEEzlGg97zuNsCOn-aWuZ-8bzZFt8rGUA/viewform?embedded=true" width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
