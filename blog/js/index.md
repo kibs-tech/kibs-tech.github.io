@@ -1,34 +1,41 @@
 ---
 permalink: /blog/js
+head-title: KibsTech Blog - A React and Better JS Journey
+
 ---
     
-# A React and Better JS Journey
- 
- <article>
-<header><h2><a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
-Mock out the API service layer using the Factory design pattern</a></h2></header>
-    
-Your React app is going to make api calls to some service that resides on a server somewhere. As a minimum in real world dev environments there will probably be a server for development, a server for testing and a server for live. Obviously that's just one simple hardware architecture example in the dev, test, build and deployment path.
-A well designed React app should isolate api calls into a 
-service layer<br/>
-<a href="/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern">
-Read more</a>
-</article>
-  
- 
-  <article>
-<header><h2><a href="/blog/js/problems-with-expo-and-react-native">
-Various problems with Expo, React Native, Native Base</a></h2></header>
-    
-Error starting Expo:<br/>
-Could not get status from Metro bundler. connect ECONNREFUSED 127.0.0.1:1900<br/>
-<a href="/blog/js/problems-with-expo-and-react-native">
-Read more</a>
-</article>
+# KibsTech Blog - A React and Better JS Journey
 
-***
-  
+This is not a collection of nicely written tutorials. It's a collection of notes and interesting observations that I make as I journey along the JavaScript Full Stack path.
+
+## [How to do implement pagination in NextJS with Firestore](/blog/js/pagination-with-firestore-in-nextjs)
+
+You're using NextJS and are generating lovely html pages. At some point you'll want to implement pagination  ...
+
+## [Careful: React Bootstrap Nav is bad for SEO](/blog/js/tut-tut-react-bootstrap)
+
+Quickie: Bad React Bootstrap. Read on to find out why...
+
+## [Nextjs and how to get query params in getServerSideProps](/blog/js/nextjs-query-param-getserversideprops)
+
+Quickie: How to get the url query parameters in getServerSideProps...
+
+## [Mock out the API service layer using the Factory design pattern](/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern)
     
+Your React app is going to make api calls to some service that resides on a server somewhere. As a minimum in real world dev environments there will probably be a server for development, a server for testing and a server for live. Obviously that's just one simple hardware architecture example in the dev, test, build and deployment path. A well designed React app should isolate api calls into a service layer
+
+[Read more](/blog/js/mock-out-api-service-layer-using-the-factory-design-pattern)
+  
+ 
+## [Various problems with Expo, React Native, Native Base](/blog/js/problems-with-expo-and-react-native)
+
+
+Error starting Expo:
+
+`Could not get status from Metro bundler. connect ECONNREFUSED 127.0.0.1:1900`
+
+[Read more](/blog/js/problems-with-expo-and-react-native)
+
   
 ## [onChange with Formik](/blog/js/formik)
    

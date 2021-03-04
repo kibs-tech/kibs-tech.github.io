@@ -2,7 +2,7 @@
 date: 2020-01-16
 permalink: /blog/js/mock-out-api-service-layer-using-the-factory-design-pattern
 linktitle: Mock out the API service layer using the Factory design pattern 
-title:  Mock out the API service layer using the Factory design pattern 
+head-title:  Mock out the API service layer using the Factory design pattern 
 weight: 10
 ---
 

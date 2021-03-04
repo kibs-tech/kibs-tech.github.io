@@ -1,7 +1,7 @@
 ---
 date: 2019-12-01
 linktitle: How to ignore some Errors in a promise chain
-title: How to ignore some Errors in a promise chain
+head-title: How to ignore some Errors in a promise chain
 weight: 10
 ---
 

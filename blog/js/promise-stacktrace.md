@@ -2,7 +2,7 @@
 date: 2019-11-26
 permalink: /blog/js/promise-stacktrace
 linktitle: Improved stacktrace when a promise is rejected
-title: Improved stacktrace when a promise is rejected
+head-title: Improved stacktrace when a promise is rejected
 weight: 10
 ---
 

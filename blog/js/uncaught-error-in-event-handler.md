@@ -2,7 +2,7 @@
 date: 2019-11-23
 permalink: /blog/js/uncaught-error-in-event-handler
 linktitle: Uncaught Error in Event Handler
-title: Uncaught Error in Event Handler
+head-title: Uncaught Error in Event Handler
 weight: 10
 ---
 

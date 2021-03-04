@@ -2,7 +2,7 @@
 date: 2020-01-08
 permalink: /blog/js/formik
 linktitle: onChange with Formik
-title: onChange with Formik
+head-title: onChange with Formik
 weight: 10
 ---
 
