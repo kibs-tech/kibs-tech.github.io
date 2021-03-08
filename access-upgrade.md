@@ -22,15 +22,15 @@ Access Job Schedular
  <!-- <div class="lead h1">Get it sorted!</div>-->
 <img src="/assets/images/access2.png" style="width:50px;margin:0 auto"/>
 <h2 style="color:#A33639">Upgrade MS Access. Keep&nbsp;it&nbsp;going!</h2>
-
 <!-- <div class="lead h1"></div> -->
 <div class="h3">Faster&nbsp;<i class="fas fa-check" style="margin-right:1rem; color:green"></i> More Secure&nbsp;<i class="fas fa-check" style="margin-right:1rem; color:green"></i> Stable&nbsp;<i class="fas fa-check" style="margin-right:1.3rem; color:green"></i></div>
   </div>
 <div class="alert alert-primary center">
-<h2 style="background:none">For Free Fixed Price Quote</h2>
- <div style="font-size:2rem; font-weight:bold">Phone/Text me: <span class="nobr">07515 675152</span></div>
+<h2 style="background:none">Free Fixed Price Quote</h2>
+<img src="/assets/images/benji-working.jpg" style="width:200px;margin:0 auto"/>
+ <div style="font-size:2rem; font-weight:bold">Phone/Text: <span class="nobr">07515 675152</span></div>
  <div style="font-size:1.5rem"><a href="mailto:helen@kibstech.co.uk">helen@kibstech.co.uk</a><br />
- or chat online now!</div>
+ or say hello online now!</div>
  </div>
 
 ## Upgrade to Microsoft 365 on Windows 10
