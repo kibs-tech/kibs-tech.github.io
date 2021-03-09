@@ -7,7 +7,7 @@ noindex: true
 
 # About 
 
-## The developer
+## The Developer
 
 <div style="display:flex">
 <div style=" margin-right:10px:"><img src="/avatar.jpg" class="avatar" /></div>
@@ -45,7 +45,7 @@ Some clients include:
 - EMT (Spain)
 
 
-## The boss
+## The Boss
 
 <div style="display:flex">
 <div style="margin-right:20px:"><img src="/assets/images/benji.png" class="avatar" /></div>
