@@ -9,7 +9,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div class="container" id="services">
 <div style="text-align:center; margin-bottom:2rem">
 <h1>KibsTech Computing</h1>
-<img src="/assets/images/benji-working-wide2.png"   alt="..." />
+<!-- <img src="/assets/images/benji-working-wide2.png"   alt="..." /> -->
 <p >Database programming, backend programming, legacy systems and modernisation, desktop applications, digital transformation, website applications, cloud services, intranet and mobile apps</p>
 </div>
 
