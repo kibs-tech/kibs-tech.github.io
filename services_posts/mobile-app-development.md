@@ -7,21 +7,7 @@ head_description: Mobile apps that are elegant, clean and functional
 
 Elegant, clean and functional mobile apps.
 
-## A new area of development
-
-Developing mobile apps is new territory for me but it's actually a natural extension to my existing technical skill set.
-
-It's also a whole lot of fun!  
-
- I've completed one app (see below) and I am about to start working on another: a leader board for GPS speed freaks. The apps I develop run on both Android and iOS. My plan is to build up some reusable components so that in the future I can develop apps with some great functionality for a very competitive price.
-
-## Need an app developing?
-
-If you would like an app developing at a reduced rate whilst I build up a portfolio get in contact now!!
-
-Send me an email telling me all about your app desires: [{{site.email}}](mailto:{{site.email}})
-
-## My first completed app <i class="far fa-grin-hearts" style="color:#f00"></i>
+## Latest Mobile App
 
 
 
