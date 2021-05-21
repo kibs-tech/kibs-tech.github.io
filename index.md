@@ -10,7 +10,7 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 <div style="text-align:center; margin-bottom:2rem">
 <h1>KibsTech Computing</h1>
 <!-- <img src="/assets/images/benji-working-wide2.png"   alt="..." /> -->
-<p >Database programming, backend programming, legacy systems and modernisation, desktop applications, digital transformation, website applications, cloud services, intranet and mobile apps</p>
+<p >Big data, digital transformation, software system modernisation, micro-services, cloud services, database programming,  website applications, mobile apps</p>
 </div>
 
 
@@ -102,28 +102,23 @@ head_keywords: MS Access, MySQL, PostgreSQL, Oracle, SQL Server, nosql, AWS, jav
 
    <div class="row">
     
-    <div class="col-sm" style="margin-bottom:2rem">
-        <div class="card">
-            <div class="card-header"><i class="fas fa-code icon-retainer x3" ></i></div>
-            <div class="card-body">
-                <h2 class="card-title">Software developer retainer</h2>
-                <p class="card-text">An affordable way for a small business to hire the regular services of a software developer.</p>
-                <a href="/software-developer-retainer" class="btn btn-primary">Read more ...</a>
-            </div>
-        </div>
-    </div>
-
+   
     
     <div class="col-sm" style="margin-bottom:2rem">
         <div class="card">
             <div class="card-header" ><i class="fas fa-sitemap icon-wlr x3"></i></div>
             <div class="card-body">
-                <h2 class="card-title">Workload Relief Contract Developer</h2>
+                <h2 class="card-title">Workload Relief Enterprise Developer</h2>
                 <p class="card-text">Workload ramping up? Get in an experienced enterprise developer to help out short term.</p>
                 <a href="/workload-relief-contractor" class="btn btn-primary">Read more ...</a>
             </div>
         </div>
     </div>
+
+     <div class="col-sm" style="margin-bottom:2rem">
+        &nbsp;
+    </div>
+
   
   
   </div>
