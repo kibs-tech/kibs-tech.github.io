@@ -12,7 +12,7 @@ noindex: true
 <div style="display:flex">
 <div style=" margin-right:10px:"><img src="/avatar.jpg" class="avatar" /></div>
 
-My name is Helen. I've been a software developer working on a contract basis for over 25 years. I started off as a wanna be musician then for some reason I started to like Mathematics and ended up doing a PhD in it! After a year as a research fellow at University I moved into software development. I'm also crazy about windsurfing.
+My name is Helen. I've been an enterprise software developer working on a contract basis for over 25 years. I have held both team lead and tech lead positions. I started off as a mathematician having done a PhD in mathematics. After some time in acedemic research I moved into software development. I'm also crazy about windsurfing.
 </div>
 
 ### Small business development experience
@@ -45,12 +45,6 @@ Some clients include:
 - EMT (Spain)
 
 
-## The Boss
-
-<div style="display:flex">
-<div style="margin-right:20px:"><img src="/assets/images/benji.png" class="avatar" /></div>
-My name is Benji and I'm the boss. My hoomum does most of the programming but I snoopervise very carefully to make sure its all pawsome. 
-</div>
 
 
 <div style="height:15rem"></div>
