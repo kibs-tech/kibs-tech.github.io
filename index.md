@@ -9,7 +9,7 @@ head_keywords:
 <div class="container" id="services">
 
   
-
+<img src="/assets/images/avatar.png" />
 
 
 
