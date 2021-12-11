@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187539349-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-187539349-1');
+</script>
+
+
+<meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+
+{% if page.noindex %}
+<meta name="robots" content="noindex">
+    {% endif %}
+
+
+<title>{{ page.head-title }}</title>
+<meta name="description" content="{{ page.head_description }}" />
+<meta name="keywords" content="{{ page.head_keywords }}" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+{% if page.head_splash %}
+<meta property="og:image" content="{{ page.head_splash }}" />
+<meta property="twitter:image" content="{{ page.head_splash }}" />
+
+{% else %}
+<meta property="og:image" content="/splash2.jpg" />
+<meta property="twitter:image" content="/splash2.jpg" />
+{% endif %}
+
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
+ <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+{% seo %}
+
+<script src="https://kit.fontawesome.com/1d98022c34.js" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+      <div style="color:white; text-align:center" >KibsTech Computing - Helen M Jones</div>
+        <header class="inner">
+          <p id="project_title"><a href="/">K-I-B-S-<span style="color:orange">tech</span>
+          </p>
+          <!-- <div style="text-align:right">
+<a href="mailto:{{site.email}}">{{site.email}}</a> <br />
+07515 675152
+</div> -->
+
+
+
+          <nav class="nav justify-content-center" >
+            
+              <a class="nav-link active" aria-current="page" href="/">Services</a>              
+              <a class="nav-link"  href="/resources">Resources</a>              
+              <a class="nav-link "  href="/about">About</a>
+              <a class="nav-link" href="/contact">Contact</a>
+          </nav>
+        </header>
+
+       
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <!-- <div class="container"><div class="row"><dov col=</div></div> -->  
+<section id="main_content" class="inner">
+  {% if page.linktitle %}
+ <h1>{{ page.linktitle }}</h1>  
+ {% endif %}
+ 
+      {{ content }}
+       
+ 
+ </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+<p>
+<a href="/blog/js">JS Blog</a> | <a href="/privacy">privacy</a>
+</p>
+<p class="small">Weymouth Dorset and North Wales. Mobile remote working advocate.</p>
+<p><img src="/avatar.jpg" class="avatar-small" /> <img src="/assets/images/benji.png" class="avatar-small" /></p>
+
+       
+<p>&nbsp;</p>
+      </footer>
+    </div>
+
+
+    <!-- {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %} -->
+
+<!--Start of Tawk.to Script-->
+<!-- <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5f8ad47ffd4ff5477ea6aebf/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script> -->
+<!--End of Tawk.to Script-->
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+  </body>
+</html>
